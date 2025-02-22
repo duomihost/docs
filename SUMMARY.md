@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 TabNet 技术文档](README.md)
+* [TabNet 技术文档](README.md)
 
 ## Windows
 

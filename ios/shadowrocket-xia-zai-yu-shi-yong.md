@@ -15,7 +15,7 @@
 {% endhint %}
 
 {% hint style="info" %}
-<mark style="color:red;">**免费共享账号的风险如您无法接受**</mark>，我们也为您提供购买<mark style="color:purple;">**独享美区ID (已购 shadowrocke) 成品号**</mark>，自动售货地址：[https://shop.moct.cloud/buy/2](https://shop.moct.cloud/buy/2/) 有需求可以去购买
+<mark style="color:red;">**免费共享账号的风险如您无法接受**</mark>，我们也为您提供购买<mark style="color:purple;">**独享美区ID (已购 shadowrocke) 成品号**</mark>，自动售货地址： 。
 {% endhint %}
 
 ### 正确登录Apple ID

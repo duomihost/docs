@@ -1,4 +1,8 @@
-# 👋 TabNet 技术文档
+---
+icon: file-lines
+---
+
+# TabNet 技术文档
 
 {% hint style="success" %}
 支持 W**indows、IOS、Android、MacOS**，全平台通用。
