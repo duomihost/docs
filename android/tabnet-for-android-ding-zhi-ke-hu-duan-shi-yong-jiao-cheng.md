@@ -12,8 +12,8 @@
 安装客户端前 请先 <mark style="color:red;">把手机的安全守护关了</mark> 再安装。否则无法安装。
 {% endhint %}
 
-* 👉[网盘下载](https://xmyc.lanzout.com/iIqBj1yhb0kj)(蓝奏)
-* 👉[备用网盘下载](https://www.123pan.com/s/Psbbjv-xBdVd.html)(123盘，免登录下载)
+* 👉[网盘下载](https://wwet.lanzn.com/itZMg2ocf0uj)[ ](https://wwet.lanzn.com/itZMg2ocf0uj)(蓝奏)
+* 👉~~备用网盘下载~~
 
 ### 登录界面
 
@@ -49,4 +49,4 @@ ChatGPT（<mark style="color:red;">香港暂未支持</mark>） 请选择日本�
 
 <div><figure><img src="../.gitbook/assets/555.jpg" alt="" width="375"><figcaption><p>点击连接按钮</p></figcaption></figure> <figure><img src="../.gitbook/assets/c2fddce4-4138-4d86-9bc3-7d8df43c6f12.jpg" alt="" width="375"><figcaption><p>出现这个连接请求，一定要点确定</p></figcaption></figure></div>
 
-连接后，可以打开 [www.YouTube.com](http://www.youtube.com/) 测试一下，如果油管可以打开就说明已经成功
+连接后，可以打开 [www.youtube.com](http://www.youtube.com/) 测试一下，如果油管可以打开就说明已经成功
