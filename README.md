@@ -5,17 +5,28 @@ icon: file-lines
 # TabNet 技术文档
 
 {% hint style="success" %}
-支持 W**indows、IOS、Android、MacOS**，全平台通用。
+欢迎访问 **Nerwo** 的文档中心！
 {% endhint %}
 
-防止您找不到本站，请收藏以下网站到您本地的浏览器收藏夹
+{% hint style="info" %}
+要查看文档，请点击**侧边栏**的相关文章
+
+点击查看：[**官方网站**](guan-wang-di-zhi-ji-lian-xi-wo-men.md)
+{% endhint %}
+
+{% hint style="success" %}
+支持 W**indows、IOS、Android、MacOS**，路由器等全平台通用。
+{% endhint %}
+
+{% hint style="warning" %}
+文档存在时效性
+
+由于 **TabNet** **用户中心的页面/功能和客户端软件**都可能不断更新，因此一些文档的描述可能过时，请避免一味照搬。如果有文档已经严重过时，请通过 **官方网站右下角在线客服** 联系我们，或通过 **工单系统** 联系我们。
+{% endhint %}
 
 {% hint style="info" %}
-防失联 导航页面
+当客户端出现问题时，应当**首先联系开发者**
 
-[https://tabnet.onrender.com](https://tabnet.onrender.com)
+除非明确声明，否则兼容软件/文档中心所列出的客户端的开发者都不是 Nerwo，也和 Nerwo 无直接利益关系，因此当软件出现问题时，应当首先联系软件的开发者，付费软件可以联系软件的支持团队以获取帮助。\
 
-[https://tabnet.netlify.app](https://tabnet.netlify.app)
-
-[https://duomihost.github.io](https://duomihost.github.io)
 {% endhint %}
