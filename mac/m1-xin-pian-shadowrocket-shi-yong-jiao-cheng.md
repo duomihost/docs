@@ -1,4 +1,4 @@
-# 🖥️  M1芯片 Shadowrocket 使用教程
+# 🖥️ M1芯片 Shadowrocket 使用教程
 
 {% hint style="success" %}
 **本教程适用于Mac OS 10以上系统，M1\&M2芯片的电脑设备**
@@ -19,7 +19,7 @@
 由于此APP在中国大陆地区商店下架，并且需要付费购买。
 
 {% hint style="danger" %}
-目前我们网站有共享账号供您使用！（风险自担）[了解风险](../ios/shadowrocket-xia-zai-yu-shi-yong.md#feng-xian-ti-shi)
+目前我们已暂停提供共享账号，若有需要您可以在第三方平台购买： [https://shop.moct.cloud/buy/2](https://shop.moct.cloud/buy/2)
 {% endhint %}
 
 登录账号后，按照下方教程切换账号下载即可。
