@@ -1,6 +1,7 @@
 # Table of contents
 
 * [TabNet 技术文档](README.md)
+* [服务条款简要 ｜ 适用法律条款和禁止行为](fu-wu-tiao-kuan-jian-yao-shi-yong-faltiao-kuan-he-jin-zhi-xing-wei.md)
 * [官网地址及联系我们](guan-wang-di-zhi-ji-lian-xi-wo-men.md)
 
 ## Windows
@@ -26,4 +27,4 @@
 ## Mac苹果电脑(macOS) <a href="#mac" id="mac"></a>
 
 * [🖥️ TabNet for MacOS 下载与使用](mac/tabnet-for-macos-xia-zai-yu-shi-yong.md)
-* [🖥️  M1芯片 Shadowrocket 使用教程](mac/m1-xin-pian-shadowrocket-shi-yong-jiao-cheng.md)
+* [🖥️ M1芯片 Shadowrocket 使用教程](mac/m1-xin-pian-shadowrocket-shi-yong-jiao-cheng.md)
