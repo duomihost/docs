@@ -1,7 +1,5 @@
 # 📱 Clash for Android 使用教程
 
-
-
 {% hint style="success" %}
 **本教程适用于安卓、鸿蒙系统的平板及手机设备**
 
@@ -14,7 +12,9 @@
 
 ### 软件下载
 
-👉 [大陆网盘下载](https://xmyc.lanzout.com/icZvH13z0mre)（此网盘无需挂代理，大陆网络可以直接打开）
+👉 [大陆网盘下载](https://tagcloud.lanzouw.com/iokrd2hcglmb)（此网盘无需挂代理，大陆网络可以直接打开）
+
+👉  [网盘下载02](https://share.feijipan.com/s/cjDro9sD)
 
 <mark style="color:red;">下载APP后一定要记得安装！！！</mark>
 
