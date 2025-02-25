@@ -15,7 +15,7 @@
 {% endhint %}
 
 {% hint style="info" %}
-<mark style="color:red;">**免费共享账号的风险如您无法接受**</mark>，我们也为您提供购买<mark style="color:purple;">**独享美区ID (已购 shadowrocke) 成品号**</mark>，自动售货地址： [https://shop.moct.cloud/buy/2](https://shop.moct.cloud/buy/2)
+<mark style="color:red;">**免费共享账号的风险如您无法接受**</mark>，我们也为您提供购买<mark style="color:purple;">**独享美区ID (已购 shadowrocke) 成品号**</mark>，自动售货地址： [https://shop.moct.cloud/buy/2](https://shop.moct.cloud/buy/2)&#x20;
 {% endhint %}
 
 ### 正确登录Apple ID
@@ -100,7 +100,7 @@ URL那里粘贴你拷贝的订阅链接，备注写：熊猫云村，然后点�
 
 ### 连接享受
 
-连接后，可以打开 [www.YouTube.com](http://www.youtube.com/) 测试一下，如果油管可以打开就说明已经成功
+连接后，可以打开 [www.youtube.com](http://www.youtube.com/) 测试一下，如果油管可以打开就说明已经成功
 
 {% hint style="success" %}
 该客户端仅支持iOS12及以上系统。低版本系统不保证能用，如果不能使用，请检查您的iOS版本，如果过旧，请更新至最新的稳定版，如果是测试版请降级到稳定版！
