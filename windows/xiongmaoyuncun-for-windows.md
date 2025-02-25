@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 💻 熊猫云村 For Windows 定制客户端使用教程
 
 {% hint style="success" %}
@@ -10,7 +14,7 @@
 安装客户端前 请先 <mark style="color:red;">**关闭杀毒软件**</mark> 再安装。以免安装不完全导致无法正常使用。
 {% endhint %}
 
-* 👉[网盘下载 ](https://xmyc.lanzout.com/i5HDx1r16sih)
+* 👉[网盘下载](https://xmyc.lanzout.com/i5HDx1r16sih)
 
 软件下载后，打开安装，安装完毕后会在桌面生成快捷方式。打开后登录账号即可使用
 
@@ -23,7 +27,7 @@
 {% endhint %}
 
 {% hint style="danger" %}
-&#x20;<mark style="background-color:red;">OFF</mark> 为关闭代理状态，外框呈红色； <mark style="background-color:green;">ON</mark> 为打开代理状态，外框呈绿色。
+<mark style="background-color:red;">OFF</mark> 为关闭代理状态，外框呈红色； <mark style="background-color:green;">ON</mark> 为打开代理状态，外框呈绿色。
 {% endhint %}
 
 <div data-full-width="false"><figure><img src="../.gitbook/assets/00.png" alt="" width="305"><figcaption><p>账号登录界面</p></figcaption></figure> <figure><img src="../.gitbook/assets/11.png" alt="" width="305"><figcaption><p>订阅更新过程中...</p></figcaption></figure></div>
@@ -41,8 +45,6 @@ Tip: ChatGPT（<mark style="color:red;">香港暂未支持</mark>） 请选择�
 
 全局模式：全部国内国外都走节点流量（有可能导致访问国内比较卡）
 {% endhint %}
-
-
 
 ### 连接享受
 
