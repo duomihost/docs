@@ -12,7 +12,15 @@ Clash 是一个使用 Go 语言编写，基于规则的跨平台代理软件核�
 
 ### 应用下载
 
-* 👉 [网盘下载](https://xmyc.lanzout.com/ibyCH17jwt8h)
+&#x20;网盘下载
+
+{% hint style="success" %}
+&#x20;[网盘下载01](https://tagcloud.lanzouw.com/ibyth2hcivab)
+
+&#x20;[网盘下载01](https://share.feijipan.com/s/noDri8kk)
+
+&#x20;[Gituhb仓库下载](https://github.com/clash-verge-rev/clash-verge-rev) (此仓库服务器位于海外，大陆部分地区可能需要搭配代理才能打开）
+{% endhint %}
 
 软件下载后为7z格式的压缩包，请直接解压后点击图标使用。
 
@@ -60,4 +68,4 @@ ChatGPT（<mark style="color:red;">香港暂未支持</mark>） 请选择日本�
 
 ### 连接享受
 
-连接后，可以打开 [www.YouTube.com](http://www.youtube.com/) 测试一下，如果油管可以打开就说明已经成功
+连接后，可以打开 [www.youtube.com](http://www.youtube.com/) 测试一下，如果油管可以打开就说明已经成功
