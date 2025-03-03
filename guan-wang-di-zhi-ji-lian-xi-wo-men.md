@@ -7,7 +7,7 @@
 通用域名:  [https://ls.tabnetservices.com](https://ls.tabnetservices.com) (国内可用)\
 服务条约:  [https://www.tabnet.us/tos.html](https://www.tabnet.us/tos.html)\
 技术文档:  [https://doc.tabnet.us](https://doc.tabnet.us)\
-服务状态:  \
+服务状态:  建设中...\
 \
 我们会定期核查以上信息的有效性，同时建议您**收藏或记录本页面的发布地址：https://doc.tabnet.us**。该平台为公共服务平台，在被屏蔽的可能性相对较低。 尽管如此，我们仍然强烈建议所有用户使用代理工具访问我们的网站，以确保更快的访问速度和稳定的可达性。
 
