@@ -13,7 +13,7 @@
 {% endhint %}
 
 * 👉[网盘下载](https://wwet.lanzn.com/itZMg2ocf0uj)[ ](https://wwet.lanzn.com/itZMg2ocf0uj)(蓝奏)
-* 👉~~备用网盘下载~~
+* [下载地址02](https://vault.digitalage.services/index.php/s/4s3kK72ZCdEiXDE)
 
 ### 登录界面
 
