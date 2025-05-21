@@ -8,6 +8,8 @@
 
 * [Intel 客户端下载](https://wwet.lanzn.com/iUMu22ocfo7a) (免登录网盘，直接下载，见下图)
 * [M芯 客户端下载](https://wwet.lanzn.com/iByDf2ocffmb) (免登录网盘，直接下载，见下图)
+* [Intel下载地址02](https://vault.digitalage.services/index.php/s/gcCgQ8Pa6K7S8M8)
+* [M芯下载地址02](https://vault.digitalage.services/index.php/s/bzTCFbqdNSsNeEn)
 
 <figure><img src="../.gitbook/assets/512122639.png" alt=""><figcaption><p>免登下载</p></figcaption></figure>
 
