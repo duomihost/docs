@@ -10,7 +10,8 @@
 安装客户端前 请先 <mark style="color:red;">**关闭杀毒软件**</mark> 再安装。以免安装不完全导致无法正常使用。
 {% endhint %}
 
-* 👉[网盘下载](https://wwet.lanzn.com/ithDg2ocevmb)--网盘免登录，可直接下载
+* [网盘下载](https://wwet.lanzn.com/ithDg2ocevmb)--网盘免登录，可直接下载
+* [下载地址01](https://vault.digitalage.services/index.php/s/BFb8HKESSQoywfg)
 
 网盘下载如下图（<mark style="color:green;">鼠标移动到文件上就会出现箭头地方的下载按钮</mark>）
 
