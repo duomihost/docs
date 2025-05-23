@@ -12,7 +12,7 @@
 安装客户端前 请先 <mark style="color:red;">把手机的安全守护关了</mark> 再安装。否则无法安装。
 {% endhint %}
 
-* 👉[网盘下载](https://wwet.lanzn.com/itZMg2ocf0uj)[ ](https://wwet.lanzn.com/itZMg2ocf0uj)(蓝奏)
+* [网盘下载 ](https://wwet.lanzoup.com/iHC1z2wy2ygb)(蓝奏)
 * [下载地址02](https://vault.digitalage.services/index.php/s/4s3kK72ZCdEiXDE)
 
 ### 登录界面
