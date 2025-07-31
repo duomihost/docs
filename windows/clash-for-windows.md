@@ -17,7 +17,7 @@ Clash 是一个使用 Go 语言编写，基于规则的跨平台代理软件核�
 {% hint style="success" %}
 &#x20;[网盘下载01](https://tagcloud.lanzouw.com/ibyth2hcivab)
 
-&#x20;[网盘下载01](https://share.feijipan.com/s/noDri8kk)
+[ 网盘下载02](https://share.feijipan.com/s/noDri8kk)
 
 &#x20;[Gituhb仓库下载](https://github.com/clash-verge-rev/clash-verge-rev) (此仓库服务器位于海外，大陆部分地区可能需要搭配代理才能打开）
 {% endhint %}
