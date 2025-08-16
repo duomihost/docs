@@ -90,6 +90,8 @@ ChatGPT（<mark style="color:red;">香港暂未支持</mark>） 请选择日本�
 
 连接后，可以打开 [www.youtube.com](http://www.youtube.com/) 测试一下，如果油管可以打开就说明已经成功
 
+***
+
 ## 更新教程
 
 {% hint style="success" %}

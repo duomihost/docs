@@ -1,4 +1,10 @@
+---
+hidden: true
+---
+
 # ⚙️ Clash For Windows 更新订阅教程
+
+
 
 {% hint style="success" %}
 按照下方教程的操作即可实现手动更新订阅，获取最新节点信息
