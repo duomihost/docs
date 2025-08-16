@@ -2,11 +2,13 @@
 
 ## 目录
 
-[#shi-yong-jiao-cheng](clash-for-windows.md#shi-yong-jiao-cheng "mention")
+1. [#shi-yong-jiao-cheng](clash-for-windows.md#shi-yong-jiao-cheng "mention")
+2. [#geng-xin-pei-zhi-jiao-cheng](clash-for-windows.md#geng-xin-pei-zhi-jiao-cheng "mention")
+3. [#zhong-zhi-pei-zhi-jiao-cheng](clash-for-windows.md#zhong-zhi-pei-zhi-jiao-cheng "mention")
 
-[#geng-xin-pei-zhi-jiao-cheng](clash-for-windows.md#geng-xin-pei-zhi-jiao-cheng "mention")
-
-[#zhong-zhi-pei-zhi-jiao-cheng](clash-for-windows.md#zhong-zhi-pei-zhi-jiao-cheng "mention")
+{% hint style="success" %}
+点击上方目录即可跳转
+{% endhint %}
 
 ## 使用教程
 
@@ -48,7 +50,9 @@ Clash 是一个使用 Go 语言编写，基于规则的跨平台代理软件核�
 
 <figure><img src="../.gitbook/assets/3_1d6lc88.png" alt=""><figcaption><p>请按照图示操作</p></figcaption></figure>
 
-> ⚠️ 如未勾选，可能导致程序无法正常联网
+{% hint style="danger" %}
+如未勾选，可能导致程序无法正常联网
+{% endhint %}
 
 ### 4. 导入订阅
 
@@ -106,14 +110,19 @@ ChatGPT（<mark style="color:red;">香港暂未支持</mark>） 请选择日本�
 按照下方教程的操作即可实现手动更新订阅，获取最新节点信息
 {% endhint %}
 
+1. 确保当前处于 **未连接状态**
+
 {% hint style="danger" %}
 更新订阅时一定要是未连接状态，如果是链接状态可能会更新失败
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/44.png" alt=""><figcaption><p>红框捏按钮全部关闭</p></figcaption></figure>
 
+2. 打开 Clash 界面，进入 **「配置（Profiles）」** 页面
+3. 找到需要更新的配置文件，点击右侧的 **刷新按钮** 更新订阅
+
 {% hint style="danger" %}
-在“配置”页面找到配置文件，点击刷新按钮即可更新订阅（如更新失败，请多尝试几次）
+如更新失败，请多尝试几次
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/55.png" alt=""><figcaption><p>更新即可</p></figcaption></figure>
@@ -126,20 +135,26 @@ ChatGPT（<mark style="color:red;">香港暂未支持</mark>） 请选择日本�
 此教程教您如何删除旧的节点配置，重新获取新的节点配置！
 {% endhint %}
 
+1. 确保当前处于 **未连接状态**
+
 {% hint style="danger" %}
 先关闭系统代理，如果本身是关闭的就忽略这一步
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/66.png" alt=""><figcaption><p>请务必关闭代理</p></figcaption></figure>
 
-首先回到 官网并登录：[https://hi.dmhosts.com](https://hi.dmhosts.com/)
+2. 回到 官网并登录：[https://hi.dmhosts.com](https://hi.dmhosts.com/)复制订阅地址 如下图
 
-复制订阅地址 如下图
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt="请按照图示操作"><figcaption><p>请按照图示操作</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/20240419162119.png" alt=""><figcaption><p>在官网复制订阅地址</p></figcaption></figure>
-
-{% hint style="danger" %}
-拷贝后，我们在Clash里面添加订阅 如果下载配置文件出现Network Error错误，请重新回到官网刷新一下网页，再复制一次订阅地址，因为我们网站有3个订阅地址，或者更换不同Wifi网络，或将电脑通过手机的4G/5G热点上网进行尝试！按照图片操作
-{% endhint %}
+3. 回到 Clash 软件，删除旧的订阅标签
+4. 重新添加新的订阅地址并下载配置文件
 
 <figure><img src="../.gitbook/assets/77.png" alt=""><figcaption><p>先删除老的订阅标签，再重新下载新的订阅</p></figcaption></figure>
+
+{% hint style="danger" %}
+如果下载配置文件出现 **`Network Error`**：
+
+1. 请回到官网刷新页面后重新复制地址（网站提供 3 个可用地址）
+2. 或更换网络环境（例如使用手机 4G/5G 热点）
+{% endhint %}
