@@ -3,7 +3,7 @@
 ## 目录
 
 1. [#shi-yong-jiao-cheng](clash-for-windows.md#shi-yong-jiao-cheng "mention")
-2. [#geng-xin-pei-zhi-jiao-cheng](clash-for-windows.md#geng-xin-pei-zhi-jiao-cheng "mention")
+2. [#geng-xin-ding-yue-jiao-cheng](clash-for-windows.md#geng-xin-ding-yue-jiao-cheng "mention")
 3. [#zhong-zhi-pei-zhi-jiao-cheng](clash-for-windows.md#zhong-zhi-pei-zhi-jiao-cheng "mention")
 
 {% hint style="success" %}
@@ -104,7 +104,7 @@ ChatGPT（<mark style="color:red;">香港暂未支持</mark>） 请选择日本�
 
 ***
 
-## 更新配置教程
+## 更新订阅教程
 
 {% hint style="success" %}
 按照下方教程的操作即可实现手动更新订阅，获取最新节点信息
