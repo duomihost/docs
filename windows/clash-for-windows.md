@@ -2,9 +2,11 @@
 
 ## 目录
 
-* 使用教程
-  * 1\. 系统要求
-  * 2\. 应用下载
+[#shi-yong-jiao-cheng](clash-for-windows.md#shi-yong-jiao-cheng "mention")
+
+[#geng-xin-pei-zhi-jiao-cheng](clash-for-windows.md#geng-xin-pei-zhi-jiao-cheng "mention")
+
+[#zhong-zhi-pei-zhi-jiao-cheng](clash-for-windows.md#zhong-zhi-pei-zhi-jiao-cheng "mention")
 
 ## 使用教程
 
