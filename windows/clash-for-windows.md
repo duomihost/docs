@@ -52,7 +52,7 @@ Clash 支持两种方式导入订阅：**手动导入** 和 **一键导入**。
 
 1. 复制个人订阅地址
 
-<figure><img src="../.gitbook/assets/image (1).png" alt="请按照图示操作"><figcaption><p>请按照图示操作</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt="请按照图示操作"><figcaption><p>请按照图示操作</p></figcaption></figure>
 
 2. 粘贴到clash软件内并下载订阅文件(如更新错误，请多次尝试下载） 如下图
 
@@ -66,7 +66,7 @@ Clash 支持两种方式导入订阅：**手动导入** 和 **一键导入**。
 
 1. 选中下方图片的选项即可自动跳转到clash，**之后请重复上方的第三步骤，选中新订阅标签**
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
