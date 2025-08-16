@@ -1,4 +1,8 @@
-# 💻 Clash For Windows 使用教程
+# 💻 Clash For Windows 使用以及更新教程
+
+## 使用教程
+
+### 1. 系统要求
 
 {% hint style="success" %}
 Clash 是一个使用 Go 语言编写，基于规则的跨平台代理软件核心程序。
@@ -10,7 +14,7 @@ Clash 是一个使用 Go 语言编写，基于规则的跨平台代理软件核�
 安装客户端前 请先 <mark style="color:red;">**关闭杀毒软件**</mark> 再安装。以免安装不完全导致无法正常使用。下载
 {% endhint %}
 
-### 应用下载
+### 2. 应用下载
 
 &#x20;网盘下载
 
@@ -19,6 +23,8 @@ Clash 是一个使用 Go 语言编写，基于规则的跨平台代理软件核�
 
 [ 网盘下载02](https://share.feijipan.com/s/noDri8kk)
 
+[ 网盘下载03](https://yunkeyso.oss-cn-hongkong.aliyuncs.com/khd/yd/yd-clash-win.zip)
+
 &#x20;[Gituhb仓库下载](https://github.com/clash-verge-rev/clash-verge-rev) (此仓库服务器位于海外，大陆部分地区可能需要搭配代理才能打开）
 {% endhint %}
 
@@ -26,29 +32,45 @@ Clash 是一个使用 Go 语言编写，基于规则的跨平台代理软件核�
 
 <figure><img src="../.gitbook/assets/1ff1190853abed7645e0acb8d162289daaa4750f.png" alt=""><figcaption><p>解压后的文件</p></figcaption></figure>
 
-### 开始使用
+### 3. 首次运行
 
 {% hint style="success" %}
-**tip:** 第一次使用会提示Windows安全中心警报，我们按照下方图示勾选即可。
+第一次使用会提示Windows安全中心警报，我们按照下方图示勾选即可。
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/3_1d6lc88.png" alt=""><figcaption><p>请按照图示操作</p></figcaption></figure>
 
-### 导入订阅
+> ⚠️ 如未勾选，可能导致程序无法正常联网
+
+### 4. 导入订阅
+
+Clash 支持两种方式导入订阅：**手动导入** 和 **一键导入**。
 
 首先回到 官网并登录：[https://hi.dmhosts.com](https://hi.dmhosts.com/)
 
-复制订阅地址 如下图
+🔹 手动导入
 
-<figure><img src="../.gitbook/assets/20240419162119.png" alt=""><figcaption><p>请按照图示操作</p></figcaption></figure>
+1. 复制个人订阅地址
 
-粘贴到clash软件内并下载订阅文件(如更新错误，请多次尝试下载） 如下图
+<figure><img src="../.gitbook/assets/image (1).png" alt="请按照图示操作"><figcaption><p>请按照图示操作</p></figcaption></figure>
+
+2. 粘贴到clash软件内并下载订阅文件(如更新错误，请多次尝试下载） 如下图
 
 <figure><img src="../.gitbook/assets/4_11yfjrh.png" alt=""><figcaption><p>请安装图示操作</p></figcaption></figure>
 
+3. 鼠标点击选中刚刚下载的订阅标签
+
 <figure><img src="../.gitbook/assets/5_tisebo.png" alt=""><figcaption><p>鼠标点击选中我们刚刚下载的订阅标签</p></figcaption></figure>
 
-### 选择节点
+🔹 一键导入
+
+1. 选中下方图片的选项即可自动跳转到clash，**之后请重复上方的第三步骤，选中新订阅标签**
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+
+
+### 5. 选择节点
 
 可根据自身需求手动选择节点。
 
@@ -58,14 +80,30 @@ ChatGPT（<mark style="color:red;">香港暂未支持</mark>） 请选择日本�
 
 <figure><img src="../.gitbook/assets/8_prq00a.png" alt=""><figcaption><p>在代理栏中选择节点</p></figcaption></figure>
 
-### 打开代理
+### 6. 开启系统代理
 
 <figure><img src="../.gitbook/assets/9_1p8ggcv.png" alt=""><figcaption><p>请安图示操作</p></figcaption></figure>
 
-系统代理打开，链接成功后如下图所示
+### 7. 系统代理打开，链接成功后如下图所示
 
 <figure><img src="../.gitbook/assets/10_1f4uozz.png" alt=""><figcaption><p>打开系统代理才可以正常访问外网</p></figcaption></figure>
 
-### 连接享受
-
 连接后，可以打开 [www.youtube.com](http://www.youtube.com/) 测试一下，如果油管可以打开就说明已经成功
+
+## 更新教程
+
+{% hint style="success" %}
+按照下方教程的操作即可实现手动更新订阅，获取最新节点信息
+{% endhint %}
+
+{% hint style="danger" %}
+更新订阅时一定要是未连接状态，如果是链接状态可能会更新失败
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/44.png" alt=""><figcaption><p>红框捏按钮全部关闭</p></figcaption></figure>
+
+{% hint style="danger" %}
+在“配置”页面找到配置文件，点击刷新按钮即可更新订阅（如更新失败，请多尝试几次）
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/55.png" alt=""><figcaption><p>更新即可</p></figcaption></figure>
