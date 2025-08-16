@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # ⚙️ Shadowrocket iOS 更新订阅教程
 
 {% hint style="success" %}

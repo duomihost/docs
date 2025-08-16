@@ -8,6 +8,10 @@
 
 [#chong-xin-pei-zhi-jiao-cheng](shadowrocket-xia-zai-yu-shi-yong.md#chong-xin-pei-zhi-jiao-cheng "mention")
 
+{% hint style="success" %}
+点击上方目录即可跳转
+{% endhint %}
+
 ***
 
 ## 使用教程
