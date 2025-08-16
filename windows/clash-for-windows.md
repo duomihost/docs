@@ -56,11 +56,11 @@ Clash 是一个使用 Go 语言编写，基于规则的跨平台代理软件核�
 
 ### 4. 导入订阅
 
-Clash 支持两种方式导入订阅：**手动导入** 和 **一键导入**。
-
 首先回到 官网并登录：[https://hi.dmhosts.com](https://hi.dmhosts.com/)
 
-🔹 手动导入
+Clash 支持两种方式导入订阅  [#shou-dong-dao-ru](clash-for-windows.md#shou-dong-dao-ru "mention") 和 [#yi-jian-dao-ru](clash-for-windows.md#yi-jian-dao-ru "mention")
+
+#### 🔹 手动导入
 
 1. 复制个人订阅地址
 
@@ -74,7 +74,7 @@ Clash 支持两种方式导入订阅：**手动导入** 和 **一键导入**。
 
 <figure><img src="../.gitbook/assets/5_tisebo.png" alt=""><figcaption><p>鼠标点击选中我们刚刚下载的订阅标签</p></figcaption></figure>
 
-🔹 一键导入
+#### 🔹 一键导入
 
 1. 选中下方图片的选项即可自动跳转到clash，**之后请重复上方的第三步骤，选中新订阅标签**
 
