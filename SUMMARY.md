@@ -11,7 +11,7 @@
 
 * [💻 TabNet For Windows 定制客户端使用教程](windows/tabnet-for-windows.md)
 * [💻 熊猫云村 For Windows 定制客户端使用教程](windows/xiongmaoyuncun-for-windows.md)
-* [💻 Clash For Windows 使用以及更新教程](windows/clash-for-windows.md)
+* [💻 Clash For Windows 使用教程](windows/clash-for-windows.md)
 * [🌐 Clash For Windows 设置全局代理教程](windows/clash-for-windows-she-zhi-quan-ju-dai-li-jiao-cheng.md)
 * [⚙️ Clash For Windows 更新订阅教程](windows/clash-for-windows-geng-xin-ding-yue-jiao-cheng.md)
 * [♻️ Clash For Windows 重新配置教程](windows/clash-for-windows-zhong-xin-pei-zhi-jiao-cheng.md)

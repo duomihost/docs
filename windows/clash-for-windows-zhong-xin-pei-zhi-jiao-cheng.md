@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # ♻️ Clash For Windows 重新配置教程
 
 {% hint style="success" %}
