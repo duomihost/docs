@@ -32,6 +32,6 @@
 ## Mac苹果电脑(macOS) <a href="#mac" id="mac"></a>
 
 * [🖥️ TabNet for MacOS 下载与使用](mac/tabnet-for-macos-xia-zai-yu-shi-yong.md)
-* [🖥️ M系列芯片 Shadowrocket 使用教程](mac/m1-xin-pian-shadowrocket-shi-yong-jiao-cheng.md)
+* [🖥️ Shadowrocket For M系列芯片Mac  使用教程](mac/m1-xin-pian-shadowrocket-shi-yong-jiao-cheng.md)
 * [🖥️ ClashX For Mac 使用教程](mac/clashx-for-mac-shi-yong-jiao-cheng.md)
 * [⚙️ Mac OS 开启 「任何来源」 安装权限教程](mac/mac-os-kai-qi-ren-he-lai-yuan-an-zhuang-quan-xian-jiao-cheng.md)
