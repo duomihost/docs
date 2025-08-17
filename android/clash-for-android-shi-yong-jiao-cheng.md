@@ -8,6 +8,10 @@
 
 [#zhong-zhi-pei-zhi-jiao-cheng](clash-for-android-shi-yong-jiao-cheng.md#zhong-zhi-pei-zhi-jiao-cheng "mention")
 
+{% hint style="success" %}
+点击上方目录即可跳转
+{% endhint %}
+
 ***
 
 ## 使用教程
