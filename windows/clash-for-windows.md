@@ -83,6 +83,21 @@ Clash 支持两种方式导入订阅  [#shou-dong-dao-ru](clash-for-windows.md#s
 
 <figure><img src="../.gitbook/assets/5_tisebo.png" alt=""><figcaption><p>鼠标点击选中我们刚刚下载的订阅标签</p></figcaption></figure>
 
+#### 🔹 一键导入
+
+1. 选中下方图片的选项即可自动跳转到clash，**之后请重复上方的第三步骤，选中新订阅标签**
+
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+2. 导入成功的后，会出现上方一样的订阅标签
+
+{% hint style="danger" %}
+如果下载配置文件出现 **`Network Error`**：
+
+1. 请回到官网刷新页面后重新复制地址（网站提供 3 个可用地址）
+2. 或更换网络环境（例如使用手机 4G/5G 热点）
+{% endhint %}
+
 ### 5. 选择节点
 
 可根据自身需求手动选择节点。
@@ -102,21 +117,6 @@ ChatGPT（<mark style="color:red;">香港暂未支持</mark>） 请选择日本�
 <figure><img src="../.gitbook/assets/10_1f4uozz.png" alt=""><figcaption><p>打开系统代理才可以正常访问外网</p></figcaption></figure>
 
 连接后，可以打开 [www.youtube.com](http://www.youtube.com/) 测试一下，如果油管可以打开就说明已经成功
-
-#### 🔹 一键导入
-
-1. 选中下方图片的选项即可自动跳转到clash，**之后请重复上方的第三步骤，选中新订阅标签**
-
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-2. 参考上方手动导入的第5，6，7步骤
-
-{% hint style="danger" %}
-如果下载配置文件出现 **`Network Error`**：
-
-1. 请回到官网刷新页面后重新复制地址（网站提供 3 个可用地址）
-2. 或更换网络环境（例如使用手机 4G/5G 热点）
-{% endhint %}
 
 ***
 
