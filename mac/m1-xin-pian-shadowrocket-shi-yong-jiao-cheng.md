@@ -155,7 +155,7 @@
 2. 打开订阅管理，点击 **刷新按钮** 更新订阅
 3. 如更新失败，请多次尝试
 
-<div><figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 ***
 

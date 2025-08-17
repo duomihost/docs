@@ -52,7 +52,7 @@ Clash 支持两种方式导入订阅  [#shou-dong-dao-ru](clash-for-android-shi-
 
 1. 复制订阅地址 如下图
 
-<div><figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 2. 打开APP后，点击主页的“配置”
 
