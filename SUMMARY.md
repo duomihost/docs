@@ -26,6 +26,7 @@
 
 * [📱 TabNet For Android 定制客户端使用教程](android/tabnet-for-android-ding-zhi-ke-hu-duan-shi-yong-jiao-cheng.md)
 * [📱 Clash for Android 使用教程](android/clash-for-android-shi-yong-jiao-cheng.md)
+* [🌐 Clash For Android 设置全局代理教程](android/clash-for-android-she-zhi-quan-ju-dai-li-jiao-cheng.md)
 * [⚙️ Clash for Android 更新订阅教程](android/clash-for-android-geng-xin-ding-yue-jiao-cheng.md)
 
 ## Mac苹果电脑(macOS) <a href="#mac" id="mac"></a>

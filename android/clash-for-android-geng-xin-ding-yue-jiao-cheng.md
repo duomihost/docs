@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # ⚙️ Clash for Android 更新订阅教程
 
 {% hint style="success" %}
