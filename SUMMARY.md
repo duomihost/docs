@@ -32,4 +32,4 @@
 ## Mac苹果电脑(macOS) <a href="#mac" id="mac"></a>
 
 * [🖥️ TabNet for MacOS 下载与使用](mac/tabnet-for-macos-xia-zai-yu-shi-yong.md)
-* [🖥️ M1芯片 Shadowrocket 使用教程](mac/m1-xin-pian-shadowrocket-shi-yong-jiao-cheng.md)
+* [🖥️ M系列芯片 Shadowrocket 使用教程](mac/m1-xin-pian-shadowrocket-shi-yong-jiao-cheng.md)

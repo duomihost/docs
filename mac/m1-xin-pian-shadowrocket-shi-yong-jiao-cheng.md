@@ -1,4 +1,20 @@
-# 🖥️ M1芯片 Shadowrocket 使用教程
+# 🖥️ M系列芯片 Shadowrocket 使用教程
+
+## 目录
+
+[#shi-yong-jiao-cheng](m1-xin-pian-shadowrocket-shi-yong-jiao-cheng.md#shi-yong-jiao-cheng "mention")
+
+[#geng-xin-ding-yue-jiao-cheng](m1-xin-pian-shadowrocket-shi-yong-jiao-cheng.md#geng-xin-ding-yue-jiao-cheng "mention")
+
+[#chong-xin-pei-zhi-jiao-cheng](m1-xin-pian-shadowrocket-shi-yong-jiao-cheng.md#chong-xin-pei-zhi-jiao-cheng "mention")
+
+{% hint style="success" %}
+点击上方目录即可跳转
+{% endhint %}
+
+***
+
+## 使用教程
 
 ### 1. 系统要求
 
@@ -82,7 +98,7 @@
 
 <figure><img src="../.gitbook/assets/m9.png" alt=""><figcaption><p>请按照图示操作</p></figcaption></figure>
 
-### 6. 启用自动更新
+### 7. 启用自动更新
 
 1. 打开 Shadowrocket **设置**
 2. 找到 **订阅选项**
@@ -92,14 +108,14 @@
 
 <figure><img src="../.gitbook/assets/m10.png" alt=""><figcaption><p>启用自动更新</p></figcaption></figure>
 
-### 7. 选择节点
+### 8. 选择节点
 
 1. 在主界面选择已导入的订阅节点
 2. 点击目标节点进行切换
 
 <figure><img src="../.gitbook/assets/m11.png" alt=""><figcaption><p>选择节点</p></figcaption></figure>
 
-### 8. 开始连接
+### 9. 开始连接
 
 1. 点击右上角开关，启动连接
 2. 全局路由改为代理
@@ -118,6 +134,45 @@
 
 <figure><img src="../.gitbook/assets/m15.png" alt=""><figcaption><p>图示开关是打开状态</p></figcaption></figure>
 
-### 9. 测试连接
+### 10. 测试连接
 
 这样试着打开 [www.YouTube.com](http://www.youtube.com/) 测试一下，如果油管可以打开就说明已经成功
+
+***
+
+## 更新订阅教程
+
+{% hint style="success" %}
+当节点失效时，可手动更新订阅。按照下方教程的操作即可实现手动更新订阅，获取最新节点！
+{% endhint %}
+
+1. 确保处于 **未连接状态**
+
+{% hint style="danger" %}
+当如果在连接状态下更新，可能会失败
+{% endhint %}
+
+2. 打开订阅管理，点击 **刷新按钮** 更新订阅
+3. 如更新失败，请多次尝试
+
+<div><figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure></div>
+
+***
+
+## 重新配置教程
+
+{% hint style="success" %}
+此教程教您如何删除旧的节点配置，重新获取新的节点配置！
+{% endhint %}
+
+1. 确保处于 **未连接状态**
+
+{% hint style="danger" %}
+当如果在连接状态下更新，可能会失败
+{% endhint %}
+
+2. 删除旧的订阅标签
+
+<figure><img src="../.gitbook/assets/{17D70454-E3D3-4276-BC7A-BCEB6A85C519}.png" alt=""><figcaption></figcaption></figure>
+
+2. 重新导入订阅，参考 [#id-6.-dao-ru-ding-yue](m1-xin-pian-shadowrocket-shi-yong-jiao-cheng.md#id-6.-dao-ru-ding-yue "mention")
