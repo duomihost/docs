@@ -1,69 +1,94 @@
 # 📱 Clash for Android 使用教程
 
-{% hint style="success" %}
-**本教程适用于安卓、鸿蒙系统的平板及手机设备**
+## 目录
 
-该客户端仅支持Android 9 以上系统，但是也可能有BUG，不一定兼容市面上所有手机操作系统，如果以下客户端在您的手机系统无法使用，请更换其他安卓APP
-{% endhint %}
+
+
+***
+
+## 使用教程
 
 {% hint style="danger" %}
 请务必确保关闭并后台退出了其他代理软件（shadowsocks、VPN、V2rayN 等），安全软件与【国家反诈中心APP】，所有代理软件都是不能同时使用的且和众多安全软件冲突。
 {% endhint %}
 
-### 软件下载
+### 1. 系统要求
 
-👉 [大陆网盘下载](https://tagcloud.lanzouw.com/iokrd2hcglmb)（此网盘无需挂代理，大陆网络可以直接打开）
+* **适用于安卓、鸿蒙系统的平板及手机设备**
+* 仅支持 **Android 9 及以上版本**
+* 部分机型可能存在兼容性问题，如无法使用，请尝试更换其他 Android 客户端
 
-👉  [网盘下载02](https://share.feijipan.com/s/cjDro9sD)
+### 2. 应用下载
 
-<mark style="color:red;">下载APP后一定要记得安装！！！</mark>
+以下网盘无需挂代理，大陆网络可以直接打开
 
-### 导入订阅
+{% hint style="success" %}
+[网盘下载01](https://tagcloud.lanzouw.com/iokrd2hcglmb)
 
-打开APP后，点击主页的“配置”
+[网盘下载02](https://share.feijipan.com/s/cjDro9sD)
 
-<figure><img src="../.gitbook/assets/1.jpg" alt=""><figcaption><p>点击配置</p></figcaption></figure>
+[网盘下载03](https://yunkeyso.oss-cn-hongkong.aliyuncs.com/khd/yd/yd-clash-anz.zip)
+{% endhint %}
 
-点击右上角的“➕”号
+{% hint style="warning" %}
+下载完成后，请手动安装 APK 文件。
+{% endhint %}
 
-<figure><img src="../.gitbook/assets/2.jpg" alt=""><figcaption><p>点击+号</p></figcaption></figure>
-
-点击“从URL导入”
-
-<figure><img src="../.gitbook/assets/3.jpg" alt=""><figcaption><p>从URL导入</p></figcaption></figure>
+### 3. 导入订阅
 
 回到官网并登录：[https://hi.dmhosts.com](https://hi.dmhosts.com/)
 
-复制订阅地址 如下图
+Clash 支持两种方式导入订阅  [#shou-dong-dao-ru](clash-for-android-shi-yong-jiao-cheng.md#shou-dong-dao-ru "mention") 和 [#yi-jian-dao-ru](clash-for-android-shi-yong-jiao-cheng.md#yi-jian-dao-ru "mention")
 
-<div><figure><img src="../.gitbook/assets/0240424133728.png" alt="" width="216"><figcaption><p>1.仪表盘首页点击一键订阅</p></figcaption></figure> <figure><img src="../.gitbook/assets/4dc4e97b8206b6a29e7cd1d663a4d2f.png" alt="" width="217"><figcaption><p>2.复制订阅地址</p></figcaption></figure></div>
+#### 🔹 手动导入
 
-在APP上添加订阅，如下图所示，
+1. 复制订阅地址 如下图
 
-1. 名称：输入TabNet；
-2. URL：粘贴您拷贝的订阅链接；
-3. 自动更新：自动更新订阅的时间填写1440分钟；
-4. 点击右上角保存
+<div><figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure></div>
+
+2. 打开APP后，点击主页的“配置”
+
+<figure><img src="../.gitbook/assets/1.jpg" alt=""><figcaption><p>点击配置</p></figcaption></figure>
+
+3. 点击右上角的“➕”号
+
+<figure><img src="../.gitbook/assets/2.jpg" alt=""><figcaption><p>点击+号</p></figcaption></figure>
+
+4. 点击“从URL导入”
+
+<figure><img src="../.gitbook/assets/3.jpg" alt=""><figcaption><p>从URL导入</p></figcaption></figure>
+
+5. 在APP上添加订阅，如下图所示，
+   1. 名称：输入TabNet；
+   2. URL：粘贴您拷贝的订阅链接；
+   3. 自动更新：自动更新订阅的时间填写1440分钟；
+   4. 点击右上角保存
 
 <figure><img src="../.gitbook/assets/6.jpg" alt=""><figcaption><p>请仔细按照步骤操作</p></figcaption></figure>
 
-选择加载后的配置，然后返回主界面
+6. 选择加载后的配置，然后返回主界面
 
 <figure><img src="../.gitbook/assets/7.jpg" alt=""><figcaption><p>选择配置点返回</p></figcaption></figure>
 
-### 开始使用
+#### 🔹 一键导入
+
+点击下方图片的选项即可自动跳转clash，并重复上方的步骤5和6
+
+<div><figure><img src="../.gitbook/assets/1755430156583.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/1755430243700.jpg" alt=""><figcaption></figcaption></figure></div>
+
+### 4. 开始使用
 
 点击启动，如下图
 
 <figure><img src="../.gitbook/assets/8.jpg" alt=""><figcaption><p>点击红框的这一栏标签即为启动</p></figcaption></figure>
 
-{% hint style="warning" %}
+{% hint style="danger" %}
 第一次使用，会弹出连接请求弹窗，一定要点“确定”，点取消将会无法使用
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/9.jpg" alt=""><figcaption><p>一定要点确定</p></figcaption></figure>
 
-### 切换节点
+### 5. 切换节点
 
 连接成功后就如下图所示，然后就可以进去代理界面去选择您想使用的节点了
 
@@ -73,4 +98,45 @@
 
 <figure><img src="../.gitbook/assets/11.jpg" alt=""><figcaption><p>手动选择自己所需节点</p></figcaption></figure>
 
+### 6. 测试连接
+
 这样试着打开 [www.YouTube.com](http://www.youtube.com/) 测试一下，如果油管可以打开就说明已经成功
+
+***
+
+## 更新订阅教程
+
+{% hint style="success" %}
+按照下方教程的操作即可实现手动更新订阅，获取最新节点
+{% endhint %}
+
+1. 确保当前处于 **未连接状态**
+
+{% hint style="danger" %}
+更新订阅时一定要是未连接状态，如果是链接状态可能会更新失败
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/12.jpg" alt=""><figcaption><p>一定要是停止状态</p></figcaption></figure>
+
+2. 打开 Clash 界面，进入 **「配置（Profiles）」** 页面
+3. 找到需要更新的配置文件，点击右侧的 **刷新按钮** 更新订阅
+
+<figure><img src="../.gitbook/assets/13.jpg" alt=""><figcaption><p>请仔细按教程操作</p></figcaption></figure>
+
+***
+
+## 重置配置教程
+
+{% hint style="success" %}
+按照下方教程的操作即可实现手动更新订阅，获取最新节点
+{% endhint %}
+
+1. 确保当前处于 **未连接状态**
+
+{% hint style="danger" %}
+更新订阅时一定要是未连接状态，如果是链接状态可能会更新失败
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/12.jpg" alt=""><figcaption><p>一定要是停止状态</p></figcaption></figure>
+
+2. 然后重新导入，参考 [#id-3.-dao-ru-ding-yue](clash-for-android-shi-yong-jiao-cheng.md#id-3.-dao-ru-ding-yue "mention")
