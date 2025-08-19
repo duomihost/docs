@@ -39,4 +39,5 @@
 
 * [⚙️ 故障排查](chang-jian-wen-ti/gu-zhang-pai-cha.md)
 * [⚙️  流量异常](chang-jian-wen-ti/liu-liang-yi-chang.md)
+* [⚙️ 关于 TikTok 的声明](chang-jian-wen-ti/guan-yu-tiktok-de-sheng-ming.md)
 * [⚙️ Mac OS 开启 「任何来源」 安装权限教程](chang-jian-wen-ti/mac-os-kai-qi-ren-he-lai-yuan-an-zhuang-quan-xian-jiao-cheng.md)
