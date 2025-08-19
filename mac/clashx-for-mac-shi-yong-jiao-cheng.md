@@ -41,7 +41,7 @@ Clash 是一个使用 Go 语言编写，基于规则的跨平台代理软件核�
 {% hint style="warning" %}
 安装完成后，我们在应用程序里面找到ClashX，然后打开它，
 
-1. 如果系统提示不安全，无法打开，我们需要打开一个开启所有来源的开关，具体看教程👉 [mac-os-kai-qi-ren-he-lai-yuan-an-zhuang-quan-xian-jiao-cheng.md](mac-os-kai-qi-ren-he-lai-yuan-an-zhuang-quan-xian-jiao-cheng.md "mention")
+1. 如果系统提示不安全，无法打开，我们需要打开一个开启所有来源的开关，具体看教程👉 [mac-os-kai-qi-ren-he-lai-yuan-an-zhuang-quan-xian-jiao-cheng.md](../chang-jian-wen-ti/mac-os-kai-qi-ren-he-lai-yuan-an-zhuang-quan-xian-jiao-cheng.md "mention")
 2. 如果能正常打开，请继续往下阅读
 {% endhint %}
 

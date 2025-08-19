@@ -34,4 +34,9 @@
 * [🖥️ TabNet for MacOS 下载与使用](mac/tabnet-for-macos-xia-zai-yu-shi-yong.md)
 * [🖥️ Shadowrocket For M系列芯片Mac  使用教程](mac/m1-xin-pian-shadowrocket-shi-yong-jiao-cheng.md)
 * [🖥️ ClashX For Mac 使用教程](mac/clashx-for-mac-shi-yong-jiao-cheng.md)
-* [⚙️ Mac OS 开启 「任何来源」 安装权限教程](mac/mac-os-kai-qi-ren-he-lai-yuan-an-zhuang-quan-xian-jiao-cheng.md)
+
+## 常见问题
+
+* [⚙️ 故障排查](chang-jian-wen-ti/gu-zhang-pai-cha.md)
+* [⚙️  流量异常](chang-jian-wen-ti/liu-liang-yi-chang.md)
+* [⚙️ Mac OS 开启 「任何来源」 安装权限教程](chang-jian-wen-ti/mac-os-kai-qi-ren-he-lai-yuan-an-zhuang-quan-xian-jiao-cheng.md)
