@@ -5,6 +5,7 @@
 1. [#shi-yong-jiao-cheng](clashx-for-mac-shi-yong-jiao-cheng.md#shi-yong-jiao-cheng "mention")
 2. [#geng-xin-ding-yue-jiao-cheng](clashx-for-mac-shi-yong-jiao-cheng.md#geng-xin-ding-yue-jiao-cheng "mention")
 3. [#zhong-zhi-pei-zhi-jiao-cheng](clashx-for-mac-shi-yong-jiao-cheng.md#zhong-zhi-pei-zhi-jiao-cheng "mention")
+4. [#kai-qi-quan-ju-dai-li-mo-shi-global](clashx-for-mac-shi-yong-jiao-cheng.md#kai-qi-quan-ju-dai-li-mo-shi-global "mention")
 
 {% hint style="success" %}
 点击上方目录即可跳转
@@ -34,7 +35,7 @@ Clash 是一个使用 Go 语言编写，基于规则的跨平台代理软件核�
 
 下载完毕后，我们按照下方图示操作完成安装
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="525"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt="" width="525"><figcaption></figcaption></figure>
 
 ### 3. 首次运行
 
@@ -67,7 +68,7 @@ Clash 支持两种方式导入订阅  [#shou-dong-dao-ru](clashx-for-mac-shi-yon
 
 1. 复制个人订阅地址
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="请按照图示操作" width="563"><figcaption><p>请按照图示操作</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="请按照图示操作" width="563"><figcaption><p>请按照图示操作</p></figcaption></figure>
 
 2. 我们在桌面右上角找到一个猫咪图标，右键打开菜单
 
@@ -104,7 +105,7 @@ Clash 支持两种方式导入订阅  [#shou-dong-dao-ru](clashx-for-mac-shi-yon
 
 1. 选中下方图片的选项即可自动跳转到clash，**之后请重复上方的第三步骤，选中新订阅标签**
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 2. 导入成功的后，重复上方手动导入的第6, 7步骤即可
 
@@ -157,7 +158,7 @@ Clash 支持两种方式导入订阅  [#shou-dong-dao-ru](clashx-for-mac-shi-yon
 
 2. 回到 官网并登录：[https://hi.dmhosts.com](https://hi.dmhosts.com/)复制订阅地址 如下图
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="请按照图示操作" width="563"><figcaption><p>请按照图示操作</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="请按照图示操作" width="563"><figcaption><p>请按照图示操作</p></figcaption></figure>
 
 3. 回到 Clash 软件
 
@@ -171,3 +172,23 @@ Clash 支持两种方式导入订阅  [#shou-dong-dao-ru](clashx-for-mac-shi-yon
 1. 请回到官网刷新页面后重新复制地址（网站提供 3 个可用地址）
 2. 或更换网络环境（例如使用手机 4G/5G 热点）
 {% endhint %}
+
+***
+
+## 开启全局代理模式（GLOBAL）
+
+
+
+1. 在菜单栏中点击 **出站模式**
+2. 从下拉菜单中选择 **全局连接**
+3. 在 **GLOBAL** 下选择一个可用节点
+4. 确认该节点将作为全局流量的出口节点
+5. 最后点击 **设置为系统代理**，即可完成全局模式开启
+
+<figure><img src="../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
+
+### 使用建议
+
+* 建议日常使用 **规则模式**，在需要时切换至 **全局模式**
+* 如果全局模式下访问国内网站速度较慢，可以临时切回分流模式
+* 切换模式后如遇异常，尝试重新连接或更新订阅

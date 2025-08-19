@@ -1,52 +1,59 @@
 # 💻 TabNet For Windows 定制客户端使用教程
 
-{% hint style="success" %}
-**本教程适用于Windows系统的设备**
-{% endhint %}
+### 1. 系统要求
 
-## TabNet 客户端下载（新客户端）
+* 支持 **Windows 10 及以上版本**
+
+### 2. TabNet 客户端下载（新客户端）
 
 {% hint style="danger" %}
-安装客户端前 请先 <mark style="color:red;">**关闭杀毒软件**</mark> 再安装。以免安装不完全导致无法正常使用。
+安装前请务必 **关闭杀毒软件与安全软件**，避免冲突或安装不完整
 {% endhint %}
 
-* [网盘下载](https://wwet.lanzoup.com/iYMrv2wy5dsf)    网盘免登录，可直接下载
-* [下载地址01](https://vault.digitalage.services/index.php/s/BFb8HKESSQoywfg)
-
-网盘下载如下图（<mark style="color:green;">鼠标移动到文件上就会出现箭头地方的下载按钮</mark>）
+{% hint style="success" %}
+* [网盘下载](https://wwet.lanzoup.com/iYMrv2wy5dsf) ( 网盘免登录，可直接下载 )
+* [备用下载地址01](https://vault.digitalage.services/index.php/s/BFb8HKESSQoywfg)
+{% endhint %}
 
 <figure><img src="../.gitbook/assets/512122639.png" alt=""><figcaption><p>免登录下载</p></figcaption></figure>
 
-* ~~👉直连点击下载~~
+{% hint style="info" %}
+&#x20;在网盘中，鼠标移动到文件上会出现下载箭头，点击即可下载。
+{% endhint %}
 
-### 登录界面
+### 3. 安装说明
 
-输入您在 熊猫云村（TabNet） 注册的邮箱跟密码登录。
+* 双击安装包进行安装
+* 安装完成后，软件左下角应显示 **熊猫云村（TabNet）副标题**
+
+{% hint style="warning" %}
+&#x20;若未显示，请关闭杀毒软件后重新安装。
+{% endhint %}
+
+### 4. 登录界面
+
+1. 打开客户端，输入您在 **熊猫云村（TabNet）注册的邮箱与密码**进行登录。
 
 ![安装完成后的登录界面](../.gitbook/assets/1-首页.png)
 
-{% hint style="success" %}
-**Tip:** 正确安装后，左下角出现 熊猫云村 与副标题，如未出现，关闭杀毒软件重新安装即可。
-{% endhint %}
-
-### 开始使用
-
-登录成功后，点击切换可以跳转选择节点界面。
+2. 登录成功后，点击切换可以跳转选择节点界面。
 
 ![登录成功后的界面](../.gitbook/assets/2-切换节点.png)
 
-### 选择节点
+### 5.选择节点
 
-{% hint style="success" %}
-可根据自身需求手动选择节点。
-{% endhint %}
+* 登录成功后，点击 **切换** 进入节点选择界面
+* 根据自身需求，手动选择合适的节点
 
 <figure><img src="../.gitbook/assets/3-选择一个节点.png" alt=""><figcaption><p>手动切换节点界面</p></figcaption></figure>
 
-### 连接享受
+### 6. 连接享受
 
-点击连接按钮 即可享受丝滑的网络体验。
+1. 点击 **连接按钮**
+2. 等待连接成功提示
 
 ![点击连接即享受](../.gitbook/assets/4-点解连接.png)
+
+### 7. 测试连接
 
 连接后，可以打开 [www.youtube.com](http://www.youtube.com/) 测试一下，如果油管可以打开就说明已经成功

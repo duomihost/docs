@@ -1,4 +1,4 @@
-# 🖥️ M系列芯片 Shadowrocket 使用教程
+# 🖥️ Shadowrocket For M系列芯片Mac  使用教程
 
 ## 目录
 
@@ -30,9 +30,9 @@
 
 1. 鼠标点击屏幕左上角 **🍎 Apple 标志**
 2. 点击 **「关于本机」**
-3. 如果显示为 M1 或 M2 芯片，则支持本教程的应用
+3. 如果显示为 M1，2，3，4 芯片，则支持本教程的应用
 
-<figure><img src="../.gitbook/assets/m1.png" alt=""><figcaption><p>请确认您的电脑是否是M1芯片或者M2芯片</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/m1.png" alt=""><figcaption><p>请确认您的电脑是否是M系列芯片</p></figcaption></figure>
 
 ### 3. 风险提示
 
