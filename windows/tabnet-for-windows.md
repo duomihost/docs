@@ -15,7 +15,7 @@
 * [备用下载地址01](https://vault.digitalage.services/index.php/s/BFb8HKESSQoywfg)
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/512122639.png" alt=""><figcaption><p>免登录下载</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/512122639.png" alt="" width="563"><figcaption><p>免登录下载</p></figcaption></figure>
 
 {% hint style="info" %}
 &#x20;在网盘中，鼠标移动到文件上会出现下载箭头，点击即可下载。
@@ -45,7 +45,7 @@
 * 登录成功后，点击 **切换** 进入节点选择界面
 * 根据自身需求，手动选择合适的节点
 
-<figure><img src="../.gitbook/assets/3-选择一个节点.png" alt=""><figcaption><p>手动切换节点界面</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/3-选择一个节点.png" alt="" width="563"><figcaption><p>手动切换节点界面</p></figcaption></figure>
 
 ### 6. 连接享受
 

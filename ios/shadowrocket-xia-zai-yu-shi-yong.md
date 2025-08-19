@@ -50,27 +50,27 @@
 
 打开应用商店（<mark style="color:red;">APP Store</mark>）如下图所示：
 
-<figure><img src="../.gitbook/assets/1.png" alt=""><figcaption><p>请一定安装图示操作</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/1.png" alt="" width="563"><figcaption><p>请一定安装图示操作</p></figcaption></figure>
 
 ### 4. 下载Shadowrocket（小火箭）
 
 进商店搜索：<mark style="color:green;">Shadowrocket</mark> 图标是一个小火箭的LOGO，别下错了
 
-<figure><img src="../.gitbook/assets/2 (1).jpg" alt=""><figcaption><p>请仔细检查下载的软件是否正确</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/2 (1).jpg" alt="" width="442"><figcaption><p>请仔细检查下载的软件是否正确</p></figcaption></figure>
 
 ### 5. 导入订阅
 
 打开APP后，点击右上角的“➕”号
 
-<figure><img src="../.gitbook/assets/3 (1).jpg" alt=""><figcaption><p>点击+号添加订阅</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/3 (1).jpg" alt="" width="441"><figcaption><p>点击+号添加订阅</p></figcaption></figure>
 
 点击“类型”进去选择
 
-<figure><img src="../.gitbook/assets/4.jpg" alt=""><figcaption><p>点击选择类型</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/4.jpg" alt="" width="440"><figcaption><p>点击选择类型</p></figcaption></figure>
 
 选择“Subscribe”，选择后会自动返回上一页
 
-<figure><img src="../.gitbook/assets/5.jpg" alt=""><figcaption><p>选择Subscribe这一项</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/5.jpg" alt="" width="441"><figcaption><p>选择Subscribe这一项</p></figcaption></figure>
 
 回到官网并登录：[https://hi.dmhosts.com](https://hi.dmhosts.com/)
 
@@ -80,7 +80,7 @@
 
 复制订阅地址 如下图
 
-<div align="center"><figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt="" width="295"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="295"><figcaption></figcaption></figure></div>
 
 URL那里粘贴你拷贝的订阅链接，备注写：Nervix，然后点“保存”就自动返回APP主界面了
 
@@ -90,7 +90,7 @@ URL那里粘贴你拷贝的订阅链接，备注写：Nervix，然后点“保�
 
 中下方图片的选项即可自动跳转**小火箭**
 
-<div><figure><img src="../.gitbook/assets/1755370145071.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/1755370145071.jpg" alt="" width="295"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt="" width="295"><figcaption></figcaption></figure></div>
 
 ### 6. 设置自动更新订阅
 
@@ -98,43 +98,43 @@ URL那里粘贴你拷贝的订阅链接，备注写：Nervix，然后点“保�
 
 1. 打开 **设置**
 
-<figure><img src="../.gitbook/assets/9 (1).jpg" alt=""><figcaption><p>右下角设置按钮</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/9 (1).jpg" alt="" width="432"><figcaption><p>右下角设置按钮</p></figcaption></figure>
 
 2. 点击 **订阅**
 
-<figure><img src="../.gitbook/assets/10 (1).jpg" alt=""><figcaption><p>点击订阅按钮</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/10 (1).jpg" alt="" width="440"><figcaption><p>点击订阅按钮</p></figcaption></figure>
 
 3. 开启以下选项：
    * ✅ 打开时更新
    * ✅ 自动后台更新
 
-<figure><img src="../.gitbook/assets/11 (2).jpg" alt=""><figcaption><p>打开自动更新开关</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/11 (2).jpg" alt="" width="441"><figcaption><p>打开自动更新开关</p></figcaption></figure>
 
 ### 7. 设置全局路由为代理
 
 设置好后返回到主页，点击“全局路由”
 
-<figure><img src="../.gitbook/assets/12 (1).jpg" alt=""><figcaption><p>选择全局路由模式为代理</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/12 (1).jpg" alt="" width="436"><figcaption><p>选择全局路由模式为代理</p></figcaption></figure>
 
 选择“代理”
 
-<figure><img src="../.gitbook/assets/13 (1).jpg" alt=""><figcaption><p>选择代理模式</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/13 (1).jpg" alt="" width="442"><figcaption><p>选择代理模式</p></figcaption></figure>
 
 ### 8.开启代理连接
 
 返回到主页面就可以选择自己需要的节点了，选择好后点击上面的连接开关
 
-<figure><img src="../.gitbook/assets/14.jpg" alt=""><figcaption><p>选择节点后打开代理开关</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/14.jpg" alt="" width="432"><figcaption><p>选择节点后打开代理开关</p></figcaption></figure>
 
 {% hint style="danger" %}
 <mark style="color:red;">出现弹窗后，点允许，这里不能点其他的，否则将无法使用！！！</mark>
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/15.jpg" alt=""><figcaption><p>一定一定一定要允许</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/15.jpg" alt="" width="292"><figcaption><p>一定一定一定要允许</p></figcaption></figure>
 
 当看到第一个选项变成节点名称，右边的开关点亮后就说明已经成功连接代理了。
 
-<figure><img src="../.gitbook/assets/16.jpg" alt=""><figcaption><p>连接成功图示</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/16.jpg" alt="" width="416"><figcaption><p>连接成功图示</p></figcaption></figure>
 
 ### 9. 测试连接
 
@@ -175,6 +175,6 @@ URL那里粘贴你拷贝的订阅链接，备注写：Nervix，然后点“保�
 
 2. 删除旧的订阅标签
 
-<figure><img src="../.gitbook/assets/33.png" alt=""><figcaption><p>代理开关一定要处于关闭状态</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/33.png" alt="" width="296"><figcaption><p>代理开关一定要处于关闭状态</p></figcaption></figure>
 
 3. 重新导入订阅，参考 [#id-5.-dao-ru-ding-yue](shadowrocket-xia-zai-yu-shi-yong.md#id-5.-dao-ru-ding-yue "mention")
