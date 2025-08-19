@@ -48,15 +48,15 @@ Clash 是一个使用 Go 语言编写，基于规则的跨平台代理软件核�
 
 1. 开启后打开程序就是这样的，如下图所示
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt="" width="249"><figcaption></figcaption></figure>
 
 2. 第一次使用，需要安装一个帮助程序，我们点击“安装”
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt="" width="266"><figcaption></figcaption></figure>
 
 3. 输入您系统密码验证一下即可
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt="" width="280"><figcaption></figcaption></figure>
 
 ### 4. 导入订阅
 

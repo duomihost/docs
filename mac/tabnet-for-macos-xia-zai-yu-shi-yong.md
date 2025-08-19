@@ -13,7 +13,7 @@
 3. 如果显示为 M1，2，3，4 芯片，则下载下方的M芯安装包，
 4. 如果显示为 Intel，则下载intel芯片的安装包
 
-<figure><img src="../.gitbook/assets/m1.png" alt=""><figcaption><p>请确认您的电脑是什么芯片</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/m1.png" alt="" width="467"><figcaption><p>请确认您的电脑是什么芯片</p></figcaption></figure>
 
 {% hint style="success" %}
 * [intel芯片 客户端下载](https://wwet.lanzoup.com/iG2vM2wy9cni) (免登录网盘，直接下载，见下图)

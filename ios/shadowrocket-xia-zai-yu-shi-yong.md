@@ -134,7 +134,7 @@ URL那里粘贴你拷贝的订阅链接，备注写：Nervix，然后点“保�
 
 当看到第一个选项变成节点名称，右边的开关点亮后就说明已经成功连接代理了。
 
-<figure><img src="../.gitbook/assets/16.jpg" alt="" width="416"><figcaption><p>连接成功图示</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/16.jpg" alt="" width="277"><figcaption><p>连接成功图示</p></figcaption></figure>
 
 ### 9. 测试连接
 
