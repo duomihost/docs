@@ -5,6 +5,7 @@
 1. [#shi-yong-jiao-cheng](clash-for-windows.md#shi-yong-jiao-cheng "mention")
 2. [#geng-xin-ding-yue-jiao-cheng](clash-for-windows.md#geng-xin-ding-yue-jiao-cheng "mention")
 3. [#zhong-zhi-pei-zhi-jiao-cheng](clash-for-windows.md#zhong-zhi-pei-zhi-jiao-cheng "mention")
+4. [#kai-qi-quan-ju-dai-li-mo-shi](clash-for-windows.md#kai-qi-quan-ju-dai-li-mo-shi "mention")
 
 {% hint style="success" %}
 点击上方目录即可跳转
@@ -42,7 +43,7 @@ Clash 是一个使用 Go 语言编写，基于规则的跨平台代理软件核�
 
 软件下载后为7z格式的压缩包，请直接解压后点击图标使用。
 
-<figure><img src="../.gitbook/assets/1ff1190853abed7645e0acb8d162289daaa4750f.png" alt=""><figcaption><p>解压后的文件</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/1ff1190853abed7645e0acb8d162289daaa4750f.png" alt="" width="563"><figcaption><p>解压后的文件</p></figcaption></figure>
 
 ### 3. 首次运行
 
@@ -50,7 +51,7 @@ Clash 是一个使用 Go 语言编写，基于规则的跨平台代理软件核�
 第一次使用会提示Windows安全中心警报，我们按照下方图示勾选即可。
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/3_1d6lc88.png" alt=""><figcaption><p>请按照图示操作</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/3_1d6lc88.png" alt="" width="472"><figcaption><p>请按照图示操作</p></figcaption></figure>
 
 {% hint style="danger" %}
 如未勾选，可能导致程序无法正常联网
@@ -66,11 +67,11 @@ Clash 支持两种方式导入订阅  [#shou-dong-dao-ru](clash-for-windows.md#s
 
 1. 复制个人订阅地址
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="请按照图示操作"><figcaption><p>请按照图示操作</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="请按照图示操作" width="563"><figcaption><p>请按照图示操作</p></figcaption></figure>
 
 2. 粘贴到clash软件内并下载订阅文件(如更新错误，请多次尝试下载） 如下图
 
-<figure><img src="../.gitbook/assets/4_11yfjrh.png" alt=""><figcaption><p>请安装图示操作</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/4_11yfjrh.png" alt="" width="563"><figcaption><p>请安装图示操作</p></figcaption></figure>
 
 {% hint style="danger" %}
 如果下载配置文件出现 **`Network Error`**：
@@ -81,13 +82,13 @@ Clash 支持两种方式导入订阅  [#shou-dong-dao-ru](clash-for-windows.md#s
 
 3. 鼠标点击选中刚刚下载的订阅标签
 
-<figure><img src="../.gitbook/assets/5_tisebo.png" alt=""><figcaption><p>鼠标点击选中我们刚刚下载的订阅标签</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/5_tisebo.png" alt="" width="563"><figcaption><p>鼠标点击选中我们刚刚下载的订阅标签</p></figcaption></figure>
 
 #### 🔹 一键导入
 
 1. 选中下方图片的选项即可自动跳转到clash，**之后请重复上方的第三步骤，选中新订阅标签**
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 2. 导入成功的后，会出现上方一样的订阅标签
 
@@ -106,15 +107,15 @@ Clash 支持两种方式导入订阅  [#shou-dong-dao-ru](clash-for-windows.md#s
 ChatGPT（<mark style="color:red;">香港暂未支持</mark>） 请选择日本、美国、新加坡、韩国等其他国家。
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/8_prq00a.png" alt=""><figcaption><p>在代理栏中选择节点</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/8_prq00a.png" alt="" width="563"><figcaption><p>在代理栏中选择节点</p></figcaption></figure>
 
 ### 6. 开启系统代理
 
-<figure><img src="../.gitbook/assets/9_1p8ggcv.png" alt=""><figcaption><p>请安图示操作</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/9_1p8ggcv.png" alt="" width="563"><figcaption><p>请安图示操作</p></figcaption></figure>
 
 ### 7. 系统代理打开，链接成功后如下图所示
 
-<figure><img src="../.gitbook/assets/10_1f4uozz.png" alt=""><figcaption><p>打开系统代理才可以正常访问外网</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/10_1f4uozz.png" alt="" width="563"><figcaption><p>打开系统代理才可以正常访问外网</p></figcaption></figure>
 
 连接后，可以打开 [www.youtube.com](http://www.youtube.com/) 测试一下，如果油管可以打开就说明已经成功
 
@@ -132,7 +133,7 @@ ChatGPT（<mark style="color:red;">香港暂未支持</mark>） 请选择日本�
 更新订阅时一定要是未连接状态，如果是链接状态可能会更新失败
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/44.png" alt=""><figcaption><p>红框捏按钮全部关闭</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/44.png" alt="" width="563"><figcaption><p>红框捏按钮全部关闭</p></figcaption></figure>
 
 2. 打开 Clash 界面，进入 **「配置（Profiles）」** 页面
 3. 找到需要更新的配置文件，点击右侧的 **刷新按钮** 更新订阅
@@ -141,7 +142,7 @@ ChatGPT（<mark style="color:red;">香港暂未支持</mark>） 请选择日本�
 如更新失败，请多尝试几次
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/55.png" alt=""><figcaption><p>更新即可</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/55.png" alt="" width="563"><figcaption><p>更新即可</p></figcaption></figure>
 
 ***
 
@@ -157,16 +158,16 @@ ChatGPT（<mark style="color:red;">香港暂未支持</mark>） 请选择日本�
 先关闭系统代理，如果本身是关闭的就忽略这一步
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/66.png" alt=""><figcaption><p>请务必关闭代理</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/66.png" alt="" width="563"><figcaption><p>请务必关闭代理</p></figcaption></figure>
 
 2. 回到 官网并登录：[https://hi.dmhosts.com](https://hi.dmhosts.com/)复制订阅地址 如下图
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="请按照图示操作"><figcaption><p>请按照图示操作</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="请按照图示操作" width="563"><figcaption><p>请按照图示操作</p></figcaption></figure>
 
 3. 回到 Clash 软件，删除旧的订阅标签
 4. 重新添加新的订阅地址并下载配置文件
 
-<figure><img src="../.gitbook/assets/77.png" alt=""><figcaption><p>先删除老的订阅标签，再重新下载新的订阅</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/77.png" alt="" width="563"><figcaption><p>先删除老的订阅标签，再重新下载新的订阅</p></figcaption></figure>
 
 {% hint style="danger" %}
 如果下载配置文件出现 **`Network Error`**：
@@ -174,3 +175,23 @@ ChatGPT（<mark style="color:red;">香港暂未支持</mark>） 请选择日本�
 1. 请回到官网刷新页面后重新复制地址（网站提供 3 个可用地址）
 2. 或更换网络环境（例如使用手机 4G/5G 热点）
 {% endhint %}
+
+***
+
+## 开启全局代理模式
+
+
+
+1. 打开 Clash for Windows 主界面
+2. 点击左侧菜单中的 **「代理（Proxy）」**
+3. 在模式切换栏中选择 **「全局（Global）」**
+4. 从节点列表中选择你需要的代理节点
+5. 确认连接成功后，即可实现全局代理
+
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+
+### 使用建议
+
+* 建议日常使用 **分流/规则模式**，在需要时切换至 **全局模式**
+* 如果全局模式下访问国内网站速度较慢，可以临时切回分流模式
+* 切换模式后如遇异常，尝试重新连接或更新订阅

@@ -34,7 +34,7 @@ Clash 是一个使用 Go 语言编写，基于规则的跨平台代理软件核�
 
 下载完毕后，我们按照下方图示操作完成安装
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt="" width="525"><figcaption></figcaption></figure>
 
 ### 3. 首次运行
 
@@ -67,23 +67,23 @@ Clash 支持两种方式导入订阅  [#shou-dong-dao-ru](clashx-for-mac-shi-yon
 
 1. 复制个人订阅地址
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="请按照图示操作"><figcaption><p>请按照图示操作</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="请按照图示操作" width="563"><figcaption><p>请按照图示操作</p></figcaption></figure>
 
 2. 我们在桌面右上角找到一个猫咪图标，右键打开菜单
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11).png" alt="" width="452"><figcaption></figcaption></figure>
 
 3. 点击“添加”
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12).png" alt="" width="362"><figcaption></figcaption></figure>
 
 4. 我们在ClashX里面添加刚刚复制的订阅，Config Name写Nervix
 
-<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (17).png" alt="" width="354"><figcaption></figcaption></figure>
 
 4. 订阅添加后，如果没有任何错误提示，我们关闭窗口即可
 
-<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (18).png" alt="" width="343"><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 如果下载配置文件出现 **`Network Error`**：
@@ -94,17 +94,17 @@ Clash 支持两种方式导入订阅  [#shou-dong-dao-ru](clashx-for-mac-shi-yon
 
 6. 重新点击右上角的猫咪，节点出来后，我们在手动切换里面选择需要使用的节点
 
-<figure><img src="../.gitbook/assets/{341775DA-77B0-4D95-A086-BF94FABEDF0B}.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/{341775DA-77B0-4D95-A086-BF94FABEDF0B}.png" alt="" width="440"><figcaption></figcaption></figure>
 
 7. 点击“设置为系统代理”，即可使用
 
-<figure><img src="../.gitbook/assets/{97DA3319-72B6-457D-9588-5E3A59945C92}.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/{97DA3319-72B6-457D-9588-5E3A59945C92}.png" alt="" width="321"><figcaption></figcaption></figure>
 
 #### 🔹 一键导入
 
 1. 选中下方图片的选项即可自动跳转到clash，**之后请重复上方的第三步骤，选中新订阅标签**
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 2. 导入成功的后，重复上方手动导入的第6, 7步骤即可
 
@@ -133,7 +133,7 @@ Clash 支持两种方式导入订阅  [#shou-dong-dao-ru](clashx-for-mac-shi-yon
 
 2. 找到需要更新的配置文件，点击托管配置，点击更新
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15).png" alt="" width="288"><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 如更新失败，请多尝试几次
@@ -157,11 +157,11 @@ Clash 支持两种方式导入订阅  [#shou-dong-dao-ru](clashx-for-mac-shi-yon
 
 2. 回到 官网并登录：[https://hi.dmhosts.com](https://hi.dmhosts.com/)复制订阅地址 如下图
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="请按照图示操作"><figcaption><p>请按照图示操作</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="请按照图示操作" width="563"><figcaption><p>请按照图示操作</p></figcaption></figure>
 
 3. 回到 Clash 软件
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16).png" alt="" width="452"><figcaption></figcaption></figure>
 
 4. 重新添加新的订阅地址并下载配置文件
 

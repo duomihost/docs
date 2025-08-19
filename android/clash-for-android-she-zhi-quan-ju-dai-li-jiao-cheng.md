@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 🌐 Clash For Android 设置全局代理教程
 
 ### 1. 什么是分流/规则模式？
@@ -41,19 +45,19 @@ Clash for Windows 默认使用 **分流/规则模式**。\
 1. 打开 Clash for Android 主界面
 2. 点击左侧菜单中的 **「代理（Proxy）」**
 
-<figure><img src="../.gitbook/assets/{48680C17-0AB7-40AE-B074-088F8A4B4516}.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/{48680C17-0AB7-40AE-B074-088F8A4B4516}.png" alt="" width="408"><figcaption></figcaption></figure>
 
 3. 在模式切换栏中选择 **「全局（Global）」**
 
-<figure><img src="../.gitbook/assets/{025876D6-3848-4DD3-894E-B5728B756065}.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/{025876D6-3848-4DD3-894E-B5728B756065}.png" alt="" width="416"><figcaption></figcaption></figure>
 
 4. 从节点列表中选择你需要的代理节点
 
-<figure><img src="../.gitbook/assets/{F75488C2-0F18-4BE4-8E1C-3233CB4A0809}.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/{F75488C2-0F18-4BE4-8E1C-3233CB4A0809}.png" alt="" width="417"><figcaption></figcaption></figure>
 
 5. 返回主页，确认连接成功后，即可实现全局代理
 
-<figure><img src="../.gitbook/assets/{2A8DECBC-3F34-41E7-AB8E-DF49D3017464}.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/{2A8DECBC-3F34-41E7-AB8E-DF49D3017464}.png" alt="" width="399"><figcaption></figcaption></figure>
 
 ***
 
