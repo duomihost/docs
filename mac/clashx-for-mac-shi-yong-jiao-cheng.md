@@ -78,9 +78,9 @@ Clash 支持两种方式导入订阅  [#shou-dong-dao-ru](clashx-for-mac-shi-yon
 
 <figure><img src="../.gitbook/assets/image (12).png" alt="" width="362"><figcaption></figcaption></figure>
 
-4. 我们在ClashX里面添加刚刚复制的订阅，Config Name写Nervix
+4. 我们在ClashX里面Url的地方添加刚刚复制的订阅，Config Name写Nervix
 
-<figure><img src="../.gitbook/assets/image (17).png" alt="" width="354"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
 4. 订阅添加后，如果没有任何错误提示，我们关闭窗口即可
 
