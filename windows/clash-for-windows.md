@@ -22,7 +22,7 @@ Clash Verge 该客户端仅支持Windows 10 以上系统
 {% endhint %}
 
 {% hint style="danger" %}
-安装客户端前 请先 <mark style="color:red;">**关闭杀毒软件**</mark> 再安装。以免安装不完全导致无法正常使用。下载
+安装客户端前 请先 <mark style="color:red;">**关闭杀毒软件**</mark> 再安装。以免安装不完全导致无法正常使用
 {% endhint %}
 
 ### 2. 应用下载
