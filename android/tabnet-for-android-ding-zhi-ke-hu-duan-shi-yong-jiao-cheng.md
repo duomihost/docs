@@ -1,4 +1,4 @@
-# 📱 TabNet For Android 定制客户端使用教程
+# 📱 Nervix For Android 定制客户端使用教程
 
 ### 1. 系统要求
 
@@ -11,7 +11,7 @@
 * 安装前请务必 **关闭手机的安全守护或杀毒软件**，否则可能导致无法安装
 {% endhint %}
 
-### 2. TabNet 客户端下载（新客户端）
+### 2. **Nervix** 客户端下载（新客户端）
 
 {% hint style="danger" %}
 安装客户端前 请先 <mark style="color:red;">把手机的安全守护关了</mark> 再安装。否则无法安装。
@@ -24,7 +24,7 @@
 
 ### 3. 登录界面
 
-* 打开客户端，输入您在 **熊猫云村（TabNet）注册的邮箱与密码** 登录
+* 打开客户端，输入您在 **熊猫云村（Nervix）注册的邮箱与密码** 登录
 
 <figure><img src="../.gitbook/assets/888.jpg" alt="" width="188"><figcaption><p>登录界面</p></figcaption></figure>
 

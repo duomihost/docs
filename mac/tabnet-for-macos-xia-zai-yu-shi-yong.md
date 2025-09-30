@@ -1,10 +1,10 @@
-# 🖥️ TabNet for MacOS 下载与使用
+# 🖥️ Nervix for MacOS 下载与使用
 
 ### 1. 系统要求
 
 * 支持 **MacOS 10 及以上版本**
 
-### 2. TabNet 客户端下载（新客户端）
+### 2. **Nervix**客户端下载（新客户端）
 
 #### 如何查看mac是什么芯片
 
@@ -41,7 +41,7 @@
 
 ### 4. 登录界面
 
-1. 打开客户端，输入您在 **熊猫云村（TabNet）注册的邮箱与密码**进行登录。
+1. 打开客户端，输入您在 **熊猫云村（Nervix）注册的邮箱与密码**进行登录。
 
 <figure><img src="../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
 
