@@ -48,7 +48,7 @@ Clash for Windows 默认使用 **分流/规则模式**。\
 4. 从节点列表中选择你需要的代理节点
 5. 确认连接成功后，即可实现全局代理
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ***
 

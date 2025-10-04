@@ -80,7 +80,7 @@
 
 复制订阅地址 如下图
 
-<div align="center"><figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt="" width="295"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="295"><figcaption></figcaption></figure></div>
+<figure><img src="../.gitbook/assets/image (3).png" alt="" width="242"><figcaption></figcaption></figure>
 
 URL那里粘贴你拷贝的订阅链接，备注写：Nervix，然后点“保存”就自动返回APP主界面了
 
@@ -90,27 +90,9 @@ URL那里粘贴你拷贝的订阅链接，备注写：Nervix，然后点“保�
 
 中下方图片的选项即可自动跳转**小火箭**
 
-<div><figure><img src="../.gitbook/assets/1755370145071.jpg" alt="" width="295"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt="" width="295"><figcaption></figcaption></figure></div>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
-### 6. 设置自动更新订阅
-
-返回到主页面后，<mark style="color:green;">需要启用自动更新</mark>。
-
-1. 打开 **设置**
-
-<figure><img src="../.gitbook/assets/9 (1).jpg" alt="" width="288"><figcaption><p>右下角设置按钮</p></figcaption></figure>
-
-2. 点击 **订阅**
-
-<figure><img src="../.gitbook/assets/10 (1).jpg" alt="" width="294"><figcaption><p>点击订阅按钮</p></figcaption></figure>
-
-3. 开启以下选项：
-   * ✅ 打开时更新
-   * ✅ 自动后台更新
-
-<figure><img src="../.gitbook/assets/11 (2).jpg" alt="" width="294"><figcaption><p>打开自动更新开关</p></figcaption></figure>
-
-### 7. 设置全局路由为代理
+### 6. 设置全局路由为代理
 
 设置好后返回到主页，点击“全局路由”
 
@@ -120,7 +102,7 @@ URL那里粘贴你拷贝的订阅链接，备注写：Nervix，然后点“保�
 
 <figure><img src="../.gitbook/assets/13 (1).jpg" alt="" width="295"><figcaption><p>选择代理模式</p></figcaption></figure>
 
-### 8.开启代理连接
+### 7.开启代理连接
 
 返回到主页面就可以选择自己需要的节点了，选择好后点击上面的连接开关
 

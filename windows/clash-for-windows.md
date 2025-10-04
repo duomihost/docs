@@ -65,7 +65,7 @@ Clash Verge 该客户端仅支持Windows 10 以上系统
 
 1. 复制个人订阅地址
 
-<figure><img src="../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
 
 2. 粘贴到**Clash Verge**软件内并下载订阅文件(如更新错误，请多次尝试下载） 如下图
 
@@ -143,10 +143,10 @@ ChatGPT（<mark style="color:red;">香港暂未支持</mark>） 请选择日本�
 
 2. 回到 官网并登录：[https://hi.dmhosts.com](https://hi.dmhosts.com/)复制订阅地址 如下图
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
-3. 回到 Clash Verge 软件，删除旧的订阅标签
-4. 重新添加新的订阅地址并下载配置文件
+2. 回到 Clash Verge 软件，删除旧的订阅标签
+3. 重新添加新的订阅地址并下载配置文件
 
 <figure><img src="../.gitbook/assets/image (32).png" alt="" width="563"><figcaption></figcaption></figure>
 

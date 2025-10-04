@@ -43,7 +43,7 @@
 
 1. 打开客户端，输入您在 **熊猫云村（Nervix）注册的邮箱与密码**进行登录。
 
-<figure><img src="../.gitbook/assets/image (3).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 1. 登录成功后，点击切换可以跳转选择节点界面。
 
