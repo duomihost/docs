@@ -51,7 +51,7 @@ Clash 支持两种方式导入订阅  [#shou-dong-dao-ru](clash-for-android-shi-
 
 1. 复制订阅地址 如下图
 
-<div><figure><img src="../.gitbook/assets/image (19).png" alt="" width="288"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="288"><figcaption></figcaption></figure></div>
+<figure><img src="../.gitbook/assets/image (38).png" alt="" width="242"><figcaption></figcaption></figure>
 
 2. 打开APP后，点击主页的“配置”
 
@@ -66,7 +66,7 @@ Clash 支持两种方式导入订阅  [#shou-dong-dao-ru](clash-for-android-shi-
 <figure><img src="../.gitbook/assets/3.jpg" alt="" width="266"><figcaption><p>从URL导入</p></figcaption></figure>
 
 5. 在APP上添加订阅，如下图所示，
-   1. 名称：输入TabNet；
+   1. 名称：输入Nervix；
    2. URL：粘贴您拷贝的订阅链接；
    3. 自动更新：自动更新订阅的时间填写1440分钟；
    4. 点击右上角保存
@@ -77,7 +77,7 @@ Clash 支持两种方式导入订阅  [#shou-dong-dao-ru](clash-for-android-shi-
 
 <figure><img src="../.gitbook/assets/7.jpg" alt="" width="264"><figcaption><p>选择配置点返回</p></figcaption></figure>
 
-#### 🔹 一键导入
+#### 🔹 一键导入&#x20;
 
 点击下方图片的选项即可自动跳转clash，并重复上方的步骤5和6
 
