@@ -80,7 +80,7 @@
 
 复制订阅地址 如下图
 
-<div align="center"><figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt="" width="295"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="295"><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt="" width="295"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="295"><figcaption></figcaption></figure></div>
 
 URL那里粘贴你拷贝的订阅链接，备注写：Nervix，然后点“保存”就自动返回APP主界面了
 
@@ -90,7 +90,7 @@ URL那里粘贴你拷贝的订阅链接，备注写：Nervix，然后点“保�
 
 中下方图片的选项即可自动跳转**小火箭**
 
-<div><figure><img src="../.gitbook/assets/1755370145071.jpg" alt="" width="295"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt="" width="295"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/1755370145071.jpg" alt="" width="295"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt="" width="295"><figcaption></figcaption></figure></div>
 
 ### 6. 设置自动更新订阅
 
