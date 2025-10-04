@@ -74,6 +74,8 @@
 
 <figure><img src="../.gitbook/assets/3 (1).jpg" alt="" width="294"><figcaption><p>点击+号添加订阅</p></figcaption></figure>
 
+正常情况，点击＋后就会自动粘贴，如果没有请手动粘，备注写：Nervix，然后点“保存”就自动返回APP主界面了
+
 <figure><img src="../.gitbook/assets/8 (1).jpg" alt="" width="375"><figcaption><p>请仔细按图示操作</p></figcaption></figure>
 
 #### 🔹 一键导入
