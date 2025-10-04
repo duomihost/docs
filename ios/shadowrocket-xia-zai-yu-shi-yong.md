@@ -60,18 +60,6 @@
 
 ### 5. 导入订阅
 
-打开APP后，点击右上角的“➕”号
-
-<figure><img src="../.gitbook/assets/3 (1).jpg" alt="" width="294"><figcaption><p>点击+号添加订阅</p></figcaption></figure>
-
-点击“类型”进去选择
-
-<figure><img src="../.gitbook/assets/4.jpg" alt="" width="294"><figcaption><p>点击选择类型</p></figcaption></figure>
-
-选择“Subscribe”，选择后会自动返回上一页
-
-<figure><img src="../.gitbook/assets/5.jpg" alt="" width="294"><figcaption><p>选择Subscribe这一项</p></figcaption></figure>
-
 回到官网并登录：[https://hi.dmhosts.com](https://hi.dmhosts.com/)
 
 支持两种方式导入订阅  [#shou-dong-dao-ru](shadowrocket-xia-zai-yu-shi-yong.md#shou-dong-dao-ru "mention")和 [#yi-jian-dao-ru](shadowrocket-xia-zai-yu-shi-yong.md#yi-jian-dao-ru "mention")
@@ -82,7 +70,9 @@
 
 <figure><img src="../.gitbook/assets/image (3).png" alt="" width="242"><figcaption></figcaption></figure>
 
-URL那里粘贴你拷贝的订阅链接，备注写：Nervix，然后点“保存”就自动返回APP主界面了
+打开APP后，点击右上角的“➕”号
+
+<figure><img src="../.gitbook/assets/3 (1).jpg" alt="" width="294"><figcaption><p>点击+号添加订阅</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/8 (1).jpg" alt="" width="375"><figcaption><p>请仔细按图示操作</p></figcaption></figure>
 
