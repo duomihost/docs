@@ -30,9 +30,9 @@ Clash Verge 该客户端仅支持Windows 10 以上系统
 &#x20;网盘下载
 
 {% hint style="success" %}
-[ 网盘下载01](http://www.app-bos.com/s/cv-windows)
+[ 网盘下载01](https://www.appkcc.com/igS9Q3a5dqad)
 
-[ 备用网盘下载02](https://share.feijipan.com/s/dWOaQVmc)
+[ 备用网盘下载02](https://share.feijipan.com/s/dd0gSwcf)
 
 [ 备用网盘下载03](https://tagcloud.lanzouw.com/iFwJP2xy3eah)
 
