@@ -30,7 +30,7 @@
 以下网盘无需挂代理，大陆网络可以直接打开
 
 {% hint style="success" %}
-[网盘下载01](https://tagcloud.lanzouw.com/iokrd2hcglmb)
+[网盘下载01](https://share.feijipan.com/s/dIVWEK5B)
 
 [网盘下载02](https://share.feijipan.com/s/cjDro9sD)
 
