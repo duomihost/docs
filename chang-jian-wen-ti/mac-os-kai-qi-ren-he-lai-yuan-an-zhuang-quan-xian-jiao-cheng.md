@@ -10,7 +10,7 @@
 2. 选择 **「系统偏好设置」**
 3. 点击 **「安全性与隐私」**
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### 2. 进入通用设置
 

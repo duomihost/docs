@@ -68,7 +68,7 @@ Clash 支持两种方式导入订阅  [#shou-dong-dao-ru](clashx-for-mac-shi-yon
 
 1. 复制个人订阅地址
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt="请按照图示操作" width="563"><figcaption><p>请按照图示操作</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="请按照图示操作" width="563"><figcaption><p>请按照图示操作</p></figcaption></figure>
 
 2. 我们在桌面右上角找到一个猫咪图标，右键打开菜单
 
@@ -158,7 +158,7 @@ Clash 支持两种方式导入订阅  [#shou-dong-dao-ru](clashx-for-mac-shi-yon
 
 2. 回到 官网并登录：[https://hi.dmhosts.com](https://hi.dmhosts.com/)复制订阅地址 如下图
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt="请按照图示操作" width="563"><figcaption><p>请按照图示操作</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="请按照图示操作" width="563"><figcaption><p>请按照图示操作</p></figcaption></figure>
 
 3. 回到 Clash 软件
 
@@ -185,7 +185,7 @@ Clash 支持两种方式导入订阅  [#shou-dong-dao-ru](clashx-for-mac-shi-yon
 4. 确认该节点将作为全局流量的出口节点
 5. 最后点击 **设置为系统代理**，即可完成全局模式开启
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### 使用建议
 

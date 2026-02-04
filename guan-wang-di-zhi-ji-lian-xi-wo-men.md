@@ -2,7 +2,8 @@
 
 ## 一、官网地址
 
-跳转域名:  [https://hi.dmhosts.com](https://hi.dmhosts.com) (推荐收藏,您每次访问她时，她总能帮您跳转到中国大陆可访问的地址)\
+跳转域名01: [hi.dmhosts.com](https://hi.dmhosts.com) (推荐收藏，访问时能自动跳转到中国大陆可访问的地址)\
+跳转域名02: [available-domains-detection-2t2.pages.dev](https://available-domains-detection-2t2.pages.dev) (推荐收藏，访问时能自动跳转到中国大陆可访问的地址)\
 永久域名:  [https://www.tabnet.us](https://www.tabnet.us)\
 通用域名:  [https://ls.tabnetservices.com](https://ls.tabnetservices.com) (国内可用)\
 服务条约:  [https://www.tabnet.us/tos.html](https://www.tabnet.us/tos.html)\
