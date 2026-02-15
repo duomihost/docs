@@ -3,6 +3,7 @@
 * [Nervix 技术文档](README.md)
 * [服务条款简要 ｜ 适用法律条款和禁止行为](fu-wu-tiao-kuan-jian-yao-shi-yong-faltiao-kuan-he-jin-zhi-xing-wei.md)
 * [公告日志](gong-gao-ri-zhi/README.md)
+  * [2026年公告和日志](gong-gao-ri-zhi/2026-nian-gong-gao-he-ri-zhi.md)
   * [2025年公告和日志](gong-gao-ri-zhi/2025-nian-gong-gao-he-ri-zhi.md)
   * [以前的公告和日志](gong-gao-ri-zhi/yi-qian-de-gong-gao-he-ri-zhi.md)
 * [官网地址及联系我们](guan-wang-di-zhi-ji-lian-xi-wo-men.md)
