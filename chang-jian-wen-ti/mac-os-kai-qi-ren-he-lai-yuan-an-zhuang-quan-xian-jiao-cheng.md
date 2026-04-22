@@ -10,14 +10,14 @@
 2. 选择 **「系统偏好设置」**
 3. 点击 **「安全性与隐私」**
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### 2. 进入通用设置
 
 1. 在「安全性与隐私」页面，切换到 **「通用」** 选项卡
 2. 如果界面下方显示 **「任何来源」**，直接勾选即可
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### 3. 如果未显示「任何来源」
 

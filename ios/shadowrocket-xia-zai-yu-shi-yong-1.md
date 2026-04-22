@@ -10,70 +10,67 @@
 
 [#chong-xin-pei-zhi-jiao-cheng](shadowrocket-xia-zai-yu-shi-yong-1.md#chong-xin-pei-zhi-jiao-cheng "mention")
 
-> 点击上方目录即可快速跳转
+{% hint style="success" %}
+点击上方目录即可跳转
+{% endhint %}
 
 ***
 
-### 使用说明
+## 使用教程
 
-本教程适用于 iOS 系统设备（iPhone / iPad）。
+{% hint style="warning" %}
+**本教程适用于IOS系统的苹果设备.**
 
-在开始之前，请务必确认：
-
-* 已关闭并完全退出其他代理软件
-* 同一时间只能运行一个代理工具，否则可能导致无法连接
-
-***
+请务必确保关闭并后台退出了其他代理软件，所有代理软件都是不能同时使用的。
+{% endhint %}
 
 ### 1. 系统要求
 
-* 支持 iOS 12 及以上版本
-* 低于 iOS 12 的设备无法保证正常使用
-* 如为测试版系统，建议降级至最新稳定版本
-
-***
+* 支持 **iOS 12 及以上版本**
+* 低于 iOS 12 的版本无法保证正常使用
+* 如为测试版系统，建议降级至最新稳定版
 
 ### 2. 风险提示
 
-#### ⚠️ 重要安全提示
+{% hint style="danger" %}
+<mark style="color:red;">**重要安全风险提示：**</mark>
 
-* 请仅用于登录 App Store 下载应用
-* 下载完成后请立即退出账号
-* **不要登录 iCloud，否则可能导致设备被锁或数据泄露**
+请仅用于登录 **App Store**，下载完成后立即退出
 
-> 我们无法对因误操作造成的损失负责
+**不要登录 iCloud**，否则可能导致个人资料泄露或设备被锁定， 我们无法帮您恢复损失!!
+{% endhint %}
 
-***
-
-#### 关于账号说明
-
-免费共享账号存在较高风险，目前已暂停提供（请谅解）
-
-如需使用，建议购买独享美区 Apple ID：
-
-👉 https://shop.moct.cloud
+{% hint style="info" %}
+<mark style="color:red;">**免费共享账号存在安全风险，当前我们已暂停提供(请您谅解)**</mark>，当前我们为您提供购买<mark style="color:purple;">**独享美区ID成品号渠道**</mark>，自动售货地址： [https://shop.moct.cloud/](https://shop.moct.cloud/buy/2)
+{% endhint %}
 
 ***
 
-### 3. 下载 Clash Mi
+### 3. 正确登录Apple ID
 
-#### 获取方式
+{% hint style="warning" %}
+注意！请按教程操作<mark style="color:red;">不要登录icloud</mark>，仅<mark style="color:green;">切换App Store商店ID</mark>即可（否则容易锁ID或锁设备）
+{% endhint %}
 
-由于 Clash Mi 仅在非中国区 App Store 提供：
+打开应用商店（<mark style="color:red;">APP Store</mark>）如下图所示：
 
-* 您可以使用自己的外区 Apple ID 下载
-* 或通过购买独享账号获取
+<figure><img src="../.gitbook/assets/1.png" alt="" width="563"><figcaption><p>请一定安装图示操作</p></figcaption></figure>
 
-👉 App Store 切换教程：\
-https://jingyan.baidu.com/article/046a7b3e8b7c0df9c27fa9fb.html
+### 4. 下载Clash Mi（猫咪）
+
+进商店搜索：<mark style="color:green;">Clash Mi</mark> 图标是一个猫咪的LOGO，别下错了
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-### 4. 导入订阅
+### 5. 导入订阅
 
-#### 步骤一：复制订阅链接
+回到官网并登录：[https://hi.dmhosts.com](https://hi.dmhosts.com/)
 
-![](https://storage.crisp.chat/users/helpdesk/website/1a42ee184d3da400/2021-04-19-112922_14t69ng.png)
+复制订阅地址 如下图
+
+<figure><img src="../.gitbook/assets/image (3).png" alt="" width="242"><figcaption></figcaption></figure>
 
 ***
 
@@ -109,7 +106,7 @@ https://jingyan.baidu.com/article/046a7b3e8b7c0df9c27fa9fb.html
 
 ***
 
-### 5. 连接并选择节点
+### 6. 连接并选择节点
 
 #### 步骤一：开启连接
 
@@ -129,8 +126,7 @@ https://jingyan.baidu.com/article/046a7b3e8b7c0df9c27fa9fb.html
 
 选择一个可用节点
 
-![](https://storage.crisp.chat/users/helpdesk/website/-/1/a/4/2/1a42ee184d3da400/image_2o8urg.png)\
-![](https://storage.crisp.chat/users/helpdesk/website/-/1/a/4/2/1a42ee184d3da400/image_1cgj8ju.png)
+<p align="center"><img src="https://storage.crisp.chat/users/helpdesk/website/-/1/a/4/2/1a42ee184d3da400/image_2o8urg.png" alt=""><br><img src="https://storage.crisp.chat/users/helpdesk/website/-/1/a/4/2/1a42ee184d3da400/image_1cgj8ju.png" alt=""></p>
 
 ***
 
@@ -168,10 +164,14 @@ https://jingyan.baidu.com/article/046a7b3e8b7c0df9c27fa9fb.html
 当如果在连接状态下更新，可能会失败
 {% endhint %}
 
-2. 打开订阅管理，点击 **刷新按钮** 更新订阅
+2. 打开订阅管理，点击更新订阅
 3. 如更新失败，请多次尝试
 
-<div><figure><img src="../.gitbook/assets/11 (1).jpg" alt="" width="291"><figcaption><p>关闭代理后，右滑更新</p></figcaption></figure> <figure><img src="../.gitbook/assets/22.jpg" alt="" width="318"><figcaption><p>更新成功提示</p></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/0a1564d1d7afa1c976a8e518c6870715.jpg" alt="" width="375"><figcaption><p>关闭代理后，</p></figcaption></figure> <figure><img src="../.gitbook/assets/0c89852831219a20fdd6d8d5bf478b43.jpg" alt="" width="375"><figcaption><p>点更新</p></figcaption></figure></div>
+
+
+
+
 
 ***
 
@@ -189,6 +189,6 @@ https://jingyan.baidu.com/article/046a7b3e8b7c0df9c27fa9fb.html
 
 2. 删除旧的订阅标签
 
-<figure><img src="../.gitbook/assets/33.png" alt="" width="296"><figcaption><p>代理开关一定要处于关闭状态</p></figcaption></figure>
+<div><figure><img src="../.gitbook/assets/image (1).png" alt="" width="371"><figcaption><p>关闭代理后，</p></figcaption></figure> <figure><img src="../.gitbook/assets/cb87bdb6967795d3efe9c1dca0efef05.jpg" alt="" width="375"><figcaption><p>点删除</p></figcaption></figure></div>
 
-3. 重新导入订阅，参考 [#id-5.-dao-ru-ding-yue](shadowrocket-xia-zai-yu-shi-yong-1.md#id-5.-dao-ru-ding-yue "mention")
+2. 重新导入订阅，参考 [#id-5.-dao-ru-ding-yue](shadowrocket-xia-zai-yu-shi-yong-1.md#id-5.-dao-ru-ding-yue "mention")
