@@ -78,7 +78,7 @@
 
 复制订阅地址 如下图
 
-<figure><img src="../.gitbook/assets/49962027b899b21b59ddf2107d0d6b8.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
 
 1. 打开APP后，点击右上角的“➕”号
 

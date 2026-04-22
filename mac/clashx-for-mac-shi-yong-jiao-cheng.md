@@ -68,7 +68,7 @@ Clash 支持两种方式导入订阅  [#shou-dong-dao-ru](clashx-for-mac-shi-yon
 
 1. 复制个人订阅地址
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="请按照图示操作" width="563"><figcaption><p>请按照图示操作</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
 
 2. 我们在桌面右上角找到一个猫咪图标，右键打开菜单
 
@@ -105,7 +105,7 @@ Clash 支持两种方式导入订阅  [#shou-dong-dao-ru](clashx-for-mac-shi-yon
 
 1. 选中下方图片的选项即可自动跳转到clash，**之后请重复上方的第三步骤，选中新订阅标签**
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
 
 2. 导入成功的后，重复上方手动导入的第6, 7步骤即可
 

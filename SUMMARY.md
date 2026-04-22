@@ -34,6 +34,7 @@
 ## Mac苹果电脑(macOS) <a href="#mac" id="mac"></a>
 
 * [🖥️ Nervix for MacOS 下载与使用](mac/tabnet-for-macos-xia-zai-yu-shi-yong.md)
+* [🖥️ Clash Verge for MacOS 下载与使用](mac/tabnet-for-macos-xia-zai-yu-shi-yong-1.md)
 * [🖥️ Shadowrocket For M系列芯片Mac  使用教程](mac/m1-xin-pian-shadowrocket-shi-yong-jiao-cheng.md)
 * [🖥️ ClashX For Mac 使用教程](mac/clashx-for-mac-shi-yong-jiao-cheng.md)
 
