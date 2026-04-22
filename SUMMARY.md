@@ -20,6 +20,7 @@
 ## 苹果手机平板(iphone/ipad) <a href="#ios" id="ios"></a>
 
 * [📱 Shadowrocket下载与使用](ios/shadowrocket-xia-zai-yu-shi-yong.md)
+* [📱 Clash Mi 下载与使用](ios/shadowrocket-xia-zai-yu-shi-yong-1.md)
 * [⚙️ Shadowrocket iOS 更新订阅教程](ios/shadowrocket-ios-geng-xin-ding-yue-jiao-cheng.md)
 * [♻️ Shadowrocket 重新配置教程](ios/shadowrocket-zhong-xin-pei-zhi-jiao-cheng.md)
 
