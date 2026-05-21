@@ -41,7 +41,7 @@
 {% endhint %}
 
 {% hint style="info" %}
-<mark style="color:red;">**免费共享账号存在安全风险，当前我们已暂停提供(请您谅解)**</mark>，当前我们为您提供购买<mark style="color:purple;">**独享美区ID成品号渠道**</mark>，自动售货地址： [https://shop.moct.cloud/](https://shop.moct.cloud/buy/2)
+<mark style="color:red;">**免费共享账号存在安全风险，当前我们已暂停提供(请您谅解)**</mark>，当前我们为您提供购买<mark style="color:purple;">**独享美区ID成品号渠道**</mark>，自动售货地址： [https://shop.wanwuexc.com](https://shop.wanwuexc.com/)
 {% endhint %}
 
 ***

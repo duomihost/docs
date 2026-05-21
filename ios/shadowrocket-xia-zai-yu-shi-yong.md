@@ -39,7 +39,7 @@
 {% endhint %}
 
 {% hint style="info" %}
-<mark style="color:red;">**免费共享账号存在安全风险，当前我们已暂停提供(请您谅解)**</mark>，当前我们为您提供购买<mark style="color:purple;">**独享美区ID (已购 shadowrocke) 成品号渠道**</mark>，自动售货地址： [https://shop.moct.cloud/buy/2](https://shop.moct.cloud/buy/2)&#x20;
+<mark style="color:red;">**免费共享账号存在安全风险，当前我们已暂停提供(请您谅解)**</mark>，当前我们为您提供购买<mark style="color:purple;">**独享美区ID (已购 shadowrocke) 成品号渠道**</mark>，自动售货地址： [https://shop.wanwuexc.com/products/us-apple-id-shadowrocket](https://shop.wanwuexc.com/products/us-apple-id-shadowrocket)&#x20;
 {% endhint %}
 
 ### 3. 正确登录Apple ID
