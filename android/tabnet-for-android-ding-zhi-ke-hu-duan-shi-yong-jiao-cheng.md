@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 📱 Nervix For Android 定制客户端使用教程
 
 ### 1. 系统要求

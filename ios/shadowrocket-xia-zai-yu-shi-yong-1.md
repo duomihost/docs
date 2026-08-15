@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 📱 Clash Mi 下载与使用
 
 ## Clash Mi 使用教程
