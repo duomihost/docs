@@ -11,6 +11,7 @@
 ## Windows
 
 * [💻 Nervix For Windows 定制客户端使用教程](windows/tabnet-for-windows.md)
+* [💻 Paxora For Windows 定制客户端使用教程](windows/tabnet-for-windows-1.md)
 * [💻 熊猫云村 For Windows 定制客户端使用教程](windows/xiongmaoyuncun-for-windows.md)
 * [💻 Clash Verge For Windows 使用教程](windows/clash-for-windows.md)
 * [🌐 Clash For Windows 设置全局代理教程](windows/clash-for-windows-she-zhi-quan-ju-dai-li-jiao-cheng.md)
