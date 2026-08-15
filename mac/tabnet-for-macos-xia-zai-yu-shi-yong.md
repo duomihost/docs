@@ -16,11 +16,13 @@
 <figure><img src="../.gitbook/assets/m1.png" alt="" width="467"><figcaption><p>请确认您的电脑是什么芯片</p></figcaption></figure>
 
 {% hint style="success" %}
-* [intel芯片 客户端下载](https://wwet.lanzoup.com/iG2vM2wy9cni) (免登录网盘，直接下载，见下图)
-* [M芯 客户端下载 ](https://wwet.lanzoup.com/i0odj2wxyo2d)(免登录网盘，直接下载，见下图)
-* [Intel芯片下载地址02](https://vault.digitalage.services/index.php/s/gcCgQ8Pa6K7S8M8)
-* [M芯下载地址02](https://vault.digitalage.services/index.php/s/bzTCFbqdNSsNeEn)
+* [网盘下载](https://vault.digitalage.services/index.php/s/E8srJpTGLgQNzW7) ( 网盘免登录，可直接下载 )
+* [备用下载地址01](https://vault.paxoras.com/index.php/s/E8srJpTGLgQNzW7)
 {% endhint %}
+
+<figure><img src="../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
+
+**下载.dmg 的选项**
 
 {% hint style="danger" %}
 如果安装的过程，系统提示不安全，无法打开，等情况，我们需要打开一个开启所有来源的开关，具体看教程👉 [mac-os-kai-qi-ren-he-lai-yuan-an-zhuang-quan-xian-jiao-cheng.md](../chang-jian-wen-ti/mac-os-kai-qi-ren-he-lai-yuan-an-zhuang-quan-xian-jiao-cheng.md "mention")
@@ -37,31 +39,22 @@
 {% endhint %}
 
 * 打开 **应用程序**
-* 找到 **熊猫云村 App** 并点击运行
+* 找到 **Paxora App** 并点击运行
 
 ### 4. 登录界面
 
-1. 打开客户端，输入您在 **熊猫云村（Nervix）注册的邮箱与密码**进行登录。
-
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt="" width="563"><figcaption></figcaption></figure>
-
-1. 登录成功后，点击切换可以跳转选择节点界面。
-
-<figure><img src="../.gitbook/assets/1755626899979.jpg" alt="" width="563"><figcaption></figcaption></figure>
+1. 打开客户端，输入您在 **Nervix 注册的邮箱与密码**进行登录。
+2. 登录成功后，点击切换可以跳转选择节点界面。
 
 ### 5.选择节点
 
 * 登录成功后，点击 **切换** 进入节点选择界面
 * 根据自身需求，手动选择合适的节点
 
-<figure><img src="../.gitbook/assets/1755627081976.jpg" alt="" width="563"><figcaption></figcaption></figure>
-
 ### 6. 连接享受
 
 1. 点击 **连接按钮**
 2. 等待连接成功提示
-
-<figure><img src="../.gitbook/assets/1755626921386.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### 7. 测试连接
 
