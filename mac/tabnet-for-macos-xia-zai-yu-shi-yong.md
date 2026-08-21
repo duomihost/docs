@@ -1,10 +1,10 @@
-# 🖥️ Nervix for MacOS 下载与使用
+# 🖥️ Paxora for MacOS 下载与使用
 
 ### 1. 系统要求
 
 * 支持 **MacOS 10 及以上版本**
 
-### 2. **Nervix**客户端下载（新客户端）
+### 2. Paxora 客户端下载（新客户端）
 
 #### 如何查看mac是什么芯片
 
