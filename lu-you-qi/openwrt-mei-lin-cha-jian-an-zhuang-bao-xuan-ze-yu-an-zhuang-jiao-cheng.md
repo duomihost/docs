@@ -17,6 +17,10 @@ icon: router
 
 ### 1. 安装包怎么选
 
+{% hint style="success" %}
+* [网盘下载](https://vault.digitalage.services/index.php/s/bk5ycyBXp6wDYYB)&#x20;
+{% endhint %}
+
 先确认自己的路由器使用什么固件。
 
 | 路由器固件           | 安装包                     | 说明             |
