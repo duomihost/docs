@@ -10,7 +10,7 @@
 
 ## 路由器
 
-* [OpenWrt / 梅林插件安装包选择与安装教程](lu-you-qi/openwrt-mei-lin-cha-jian-an-zhuang-bao-xuan-ze-yu-an-zhuang-jiao-cheng.md)
+* [OpenWrt / 梅林插件使用教程](lu-you-qi/openwrt-mei-lin-cha-jian-shi-yong-jiao-cheng.md)
 
 ## Windows
 
