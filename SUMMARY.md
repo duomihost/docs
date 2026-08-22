@@ -8,6 +8,10 @@
   * [以前的公告和日志](gong-gao-ri-zhi/yi-qian-de-gong-gao-he-ri-zhi.md)
 * [官网地址及联系我们](guan-wang-di-zhi-ji-lian-xi-wo-men.md)
 
+## 路由器
+
+* [OpenWrt / 梅林插件安装包选择与安装教程](lu-you-qi/openwrt-mei-lin-cha-jian-an-zhuang-bao-xuan-ze-yu-an-zhuang-jiao-cheng.md)
+
 ## Windows
 
 * [💻 Nervix For Windows 定制客户端使用教程](windows/tabnet-for-windows.md)
