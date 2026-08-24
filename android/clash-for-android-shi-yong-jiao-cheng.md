@@ -66,7 +66,7 @@ Clash 支持两种方式导入订阅  [#shou-dong-dao-ru](clash-for-android-shi-
 <figure><img src="../.gitbook/assets/3.jpg" alt="" width="266"><figcaption><p>从URL导入</p></figcaption></figure>
 
 5. 在APP上添加订阅，如下图所示，
-   1. 名称：输入Nervix；
+   1. 名称：输入Paxora；
    2. URL：粘贴您拷贝的订阅链接；
    3. 自动更新：自动更新订阅的时间填写1440分钟；
    4. 点击右上角保存
