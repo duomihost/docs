@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Nervix 技术文档](README.md)
+* [Paxora 技术文档](README.md)
 * [服务条款简要 ｜ 适用法律条款和禁止行为](fu-wu-tiao-kuan-jian-yao-shi-yong-faltiao-kuan-he-jin-zhi-xing-wei.md)
 * [公告日志](gong-gao-ri-zhi/README.md)
   * [2026年公告和日志](gong-gao-ri-zhi/2026-nian-gong-gao-he-ri-zhi.md)
